@@ -9,8 +9,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium_stealth import stealth
+# webdriver-manager tidak lagi dibutuhkan di sini karena driver di-handle oleh workflow
 
 BASE_URL = "https://aniwatchtv.to"
 HEADERS = {
@@ -19,6 +19,9 @@ HEADERS = {
 }
 
 def setup_selenium_driver():
+    """
+    PERBAIKAN: Menyiapkan driver Selenium Chrome, disederhanakan untuk GitHub Actions.
+    """
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
     options.add_argument("--no-sandbox")
@@ -27,11 +30,15 @@ def setup_selenium_driver():
     options.add_argument("--window-size=1920x1080")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
-    service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=options)
+    
+    # Karena workflow sudah menyiapkan driver, kita tidak butuh ChromeDriverManager lagi.
+    # Selenium akan otomatis mendeteksi driver yang sudah ada di PATH.
+    driver = webdriver.Chrome(options=options)
+    
     stealth(driver, languages=["en-US", "en"], vendor="Google Inc.", platform="Win32", webgl_vendor="Intel Inc.", renderer="Intel Iris OpenGL Engine", fix_hairline=True)
     return driver
 
+# Sisa kode di bawah ini sudah benar dan tidak perlu diubah
 def get_soup(url):
     try:
         response = requests.get(url, headers=HEADERS, timeout=20)
@@ -53,15 +60,15 @@ def get_stream_url(driver, watch_page_url):
         if stream_src and ('megacloud' in stream_src or 'vidstream' in stream_src):
             print(f"    -> Ditemukan: {stream_src[:70]}...")
             return stream_src
+        print("    -> Gagal: Atribut src iframe kosong atau berisi CAPTCHA.")
         return None
-    except Exception:
-        print(f"    -> Gagal mendapatkan iframe.")
+    except Exception as e:
+        print(f"    -> Gagal mendapatkan iframe dengan Selenium: {type(e).__name__}")
         return None
 
 def scrape_homepage_sections(soup):
     data = {'spotlight': [], 'latest_episodes': []}
     if not soup: return data
-    # Spotlight
     slider = soup.find('div', id='slider')
     if slider:
         for item in slider.find_all('div', class_='deslide-item'):
@@ -73,7 +80,6 @@ def scrape_homepage_sections(soup):
                 'watch_url': f"{BASE_URL}{watch_now_el['href']}",
                 'image_url': item.find('img', class_='film-poster-img').get('data-src'),
             })
-    # Latest Episodes
     section = soup.find('section', class_='block_area_home')
     if section:
         for item in section.find_all('div', class_='flw-item'):
