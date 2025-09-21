@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kaiju No. 8 Season 2",
       "watch_url": "https://aniwatchtv.to/watch/kaiju-no-8-season-2-19792",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/6461c9a2f865136afa30424ea61586be.jpg",
@@ -41,15 +47,27 @@
       "watch_url": "https://aniwatchtv.to/watch/sakamoto-days-part-2-19787",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/200f6d513c6a0ea46258ef0b2d3d411a.jpg",
       "stream_url": null
+    }
+  ],
+  "latest_episodes": [
+    {
+      "title": "Hotel Inhumans",
+      "watch_url": "https://aniwatchtv.to/watch/hotel-inhumans-19745",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+      "stream_url": null
     },
     {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
       "stream_url": null
-    }
-  ],
-  "latest_episodes": [
+    },
     {
       "title": "Renegade Immortal",
       "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
@@ -102,24 +120,6 @@
       "title": "Dekin no Mogura: The Earthbound Mole",
       "watch_url": "https://aniwatchtv.to/watch/dekin-no-mogura-the-earthbound-mole-19755",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bcbf3154a1f466ebbe5a62155a14431.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Puniru is a Kawaii Slime Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/puniru-is-a-kawaii-slime-season-2-19734",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a700000d4c4f6e959c69d353fc2a9c31.png",
-      "stream_url": null
-    },
-    {
-      "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/toilet-bound-hanako-kun-season-2-part-2-19771",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31e9bf1d374c8eb4d0011159dbc896c2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Battle Through The Heavens 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
       "stream_url": null
     }
   ]
