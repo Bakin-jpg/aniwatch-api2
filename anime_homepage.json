@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Theatre of Darkness: Yamishibai 15",
+      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-15-19731",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6af050edb9ef74297aa0e3adc546e0a2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Hotel Inhumans",
       "watch_url": "https://aniwatchtv.to/watch/hotel-inhumans-19745",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
@@ -114,12 +120,6 @@
       "title": "Apocalypse Bringer Mynoghra",
       "watch_url": "https://aniwatchtv.to/watch/apocalypse-bringer-mynoghra-19772",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5158a52746ac1a0af5ca85fd2ff25366.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Dekin no Mogura: The Earthbound Mole",
-      "watch_url": "https://aniwatchtv.to/watch/dekin-no-mogura-the-earthbound-mole-19755",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bcbf3154a1f466ebbe5a62155a14431.jpg",
       "stream_url": null
     }
   ]
