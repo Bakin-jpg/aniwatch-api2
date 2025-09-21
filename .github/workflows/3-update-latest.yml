@@ -11,19 +11,23 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Install Google Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
+      
+      # PERBAIKAN: Menggunakan Action khusus untuk setup Chrome dan Chromedriver
+      - name: Setup Chrome & Chromedriver
+        uses: nanasess/setup-chromedriver@v2
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Run latest scraper script
-        timeout-minutes: 20
+        timeout-minutes: 15 # Timeout bisa dikurangi karena proses lebih cepat
         run: python 3_update_latest.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
