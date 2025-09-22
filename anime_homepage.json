@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Princession Orchestra",
+      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Koupen-chan",
       "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
@@ -114,12 +120,6 @@
       "title": "Nyaight of the Living Cat",
       "watch_url": "https://aniwatchtv.to/watch/nyaight-of-the-living-cat-19757",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8630e6c2477877ec91fc6585a8ebafa2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ruri Rocks",
-      "watch_url": "https://aniwatchtv.to/watch/ruri-rocks-19763",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3008601e63660ec3634240b41edc2e65.jpg",
       "stream_url": null
     }
   ]
