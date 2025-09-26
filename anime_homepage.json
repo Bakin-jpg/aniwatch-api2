@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Nukitashi the Animation",
+      "watch_url": "https://aniwatchtv.to/watch/nukitashi-the-animation-19806",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33d4163485c2892aad7b42ddcf4ef7d8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Secrets of the Silent Witch",
       "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-silent-witch-19777",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80041e1c6d7346e561fd39d10507ddf9.jpg",
@@ -114,12 +120,6 @@
       "title": "Kamitsubaki City Under Construction",
       "watch_url": "https://aniwatchtv.to/watch/kamitsubaki-city-under-construction-19742",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/577e52a7c7e82186ce0ffb9b6f90d743.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Solo Camping for Two",
-      "watch_url": "https://aniwatchtv.to/watch/solo-camping-for-two-19752",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
       "stream_url": null
     }
   ]
