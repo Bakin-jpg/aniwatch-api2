@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Tougen Anki",
+      "watch_url": "https://aniwatchtv.to/watch/tougen-anki-19779",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Bouquet for an Ugly Girl",
       "watch_url": "https://aniwatchtv.to/watch/a-bouquet-for-an-ugly-girl-19767",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6e5447f50616963c3225364896c8be4.jpg",
@@ -114,12 +120,6 @@
       "title": "Let's Go Karaoke!",
       "watch_url": "https://aniwatchtv.to/watch/lets-go-karaoke-19743",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf202a2381bbece288ada72a12dd299c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jade Dynasty",
-      "watch_url": "https://aniwatchtv.to/watch/jade-dynasty-19807",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2912cb24a8c4368a4a22af5a1126dfe3.jpg",
       "stream_url": null
     }
   ]
