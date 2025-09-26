@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "A Bouquet for an Ugly Girl",
+      "watch_url": "https://aniwatchtv.to/watch/a-bouquet-for-an-ugly-girl-19767",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6e5447f50616963c3225364896c8be4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Cats Eye",
       "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
@@ -114,12 +120,6 @@
       "title": "Jade Dynasty",
       "watch_url": "https://aniwatchtv.to/watch/jade-dynasty-19807",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2912cb24a8c4368a4a22af5a1126dfe3.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "With Vengeance",
-      "watch_url": "https://aniwatchtv.to/watch/with-vengeance-19740",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7abcc65667e4eeaf7fc9f4123c447c9.jpg",
       "stream_url": null
     }
   ]
