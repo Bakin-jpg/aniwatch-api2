@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Cats Eye",
+      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fairies Albums 5",
       "watch_url": "https://aniwatchtv.to/watch/fairies-albums-5-19817",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/190bbea727e92563d00b7ca6d7ed44fc.jpg",
@@ -114,12 +120,6 @@
       "title": "With Vengeance",
       "watch_url": "https://aniwatchtv.to/watch/with-vengeance-19740",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7abcc65667e4eeaf7fc9f4123c447c9.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hell Teacher: Jigoku Sensei Nube",
-      "watch_url": "https://aniwatchtv.to/watch/hell-teacher-jigoku-sensei-nube-19758",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b820eb87b6c05c6f9d98007e7eee2b24.jpg",
       "stream_url": null
     }
   ]
