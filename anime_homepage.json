@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Case Closed",
+      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+      "stream_url": null
+    },
+    {
       "title": "YAIBA: Samurai Legend",
       "watch_url": "https://aniwatchtv.to/watch/yaiba-samurai-legend-19575",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc237f80ce02963acf93eb8797e12f9f.jpg",
@@ -114,12 +120,6 @@
       "title": "Perfect World",
       "watch_url": "https://aniwatchtv.to/watch/perfect-world-17492",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Purple River 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/purple-river-2nd-season-19837",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd1bfffb385fedfb5c3eb9b4dbfde7e6.jpg",
       "stream_url": null
     }
   ]
