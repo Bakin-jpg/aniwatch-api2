@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Rascal Does Not Dream of Santa Claus",
+      "watch_url": "https://aniwatchtv.to/watch/rascal-does-not-dream-of-santa-claus-19788",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e9109398449cbeab3228d6ea05c5b1d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Wild Last Boss Appeared!",
       "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
@@ -114,12 +120,6 @@
       "title": "I am the Blade",
       "watch_url": "https://aniwatchtv.to/watch/i-am-the-blade-19815",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f4185a2a52b35993d4ad4f1d17e27c2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Celestial Bonds",
-      "watch_url": "https://aniwatchtv.to/watch/celestial-bonds-19708",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c42c38928dc41a8890e3cc418cd7b0f9.jpg",
       "stream_url": null
     }
   ]
