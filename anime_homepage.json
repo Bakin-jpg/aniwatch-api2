@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kaiju No. 8 Season 2",
       "watch_url": "https://aniwatchtv.to/watch/kaiju-no-8-season-2-19792",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/6461c9a2f865136afa30424ea61586be.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Dan Da Dan Season 2",
       "watch_url": "https://aniwatchtv.to/watch/dan-da-dan-season-2-19793",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/33043b5bb1314a46d20f814dbe70f123.jpg",
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Hotel Inhumans",
+      "watch_url": "https://aniwatchtv.to/watch/hotel-inhumans-19745",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
     {
       "title": "City The Animation",
       "watch_url": "https://aniwatchtv.to/watch/city-the-animation-19775",
@@ -102,24 +120,6 @@
       "title": "The Fragrant Flower Blooms with Dignity",
       "watch_url": "https://aniwatchtv.to/watch/the-fragrant-flower-blooms-with-dignity-19789",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Summer Hikaru Died",
-      "watch_url": "https://aniwatchtv.to/watch/the-summer-hikaru-died-19783",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59ecd5571fb25e6b09ff27f580fd2fbb.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Rascal Does Not Dream of Santa Claus",
-      "watch_url": "https://aniwatchtv.to/watch/rascal-does-not-dream-of-santa-claus-19788",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e9109398449cbeab3228d6ea05c5b1d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Wild Last Boss Appeared!",
-      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
       "stream_url": null
     }
   ]
