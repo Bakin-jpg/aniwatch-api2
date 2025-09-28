@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ruri Rocks",
+      "watch_url": "https://aniwatchtv.to/watch/ruri-rocks-19763",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3008601e63660ec3634240b41edc2e65.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Apocalypse Bringer Mynoghra",
+      "watch_url": "https://aniwatchtv.to/watch/apocalypse-bringer-mynoghra-19772",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5158a52746ac1a0af5ca85fd2ff25366.jpg",
+      "stream_url": null
+    },
+    {
       "title": "You and Idol Precure♪",
       "watch_url": "https://aniwatchtv.to/watch/you-and-idol-precure-19509",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
@@ -108,18 +120,6 @@
       "title": "Anne Shirley",
       "watch_url": "https://aniwatchtv.to/watch/anne-shirley-19565",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e271a9e9498aa1dde79ae78a7e97ca.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Case Closed",
-      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "YAIBA: Samurai Legend",
-      "watch_url": "https://aniwatchtv.to/watch/yaiba-samurai-legend-19575",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc237f80ce02963acf93eb8797e12f9f.jpg",
       "stream_url": null
     }
   ]
