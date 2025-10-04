@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
       "watch_url": "https://aniwatchtv.to/watch/cardfight-vanguard-divinez-deluxe-kesshou-hen-19732",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b453481167c7fd55103c67c77115514.jpg",
@@ -114,12 +120,6 @@
       "title": "I am the Blade",
       "watch_url": "https://aniwatchtv.to/watch/i-am-the-blade-19815",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f4185a2a52b35993d4ad4f1d17e27c2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Love Between Fairy and Devil 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/love-between-fairy-and-devil-2nd-season-19818",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ac67f7a6216609585a552172bb18d11.jpg",
       "stream_url": null
     }
   ]
