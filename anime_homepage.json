@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1721/151097l.jpg",
+      "stream_url": null
+    },
+    {
       "title": "2200-nen Neko no Kuni Nippon",
       "watch_url": "https://aniwatchtv.to/watch/2200-nen-neko-no-kuni-nippon-19947",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5ffc12bb1a88c998baa32987d65389.jpg",
@@ -114,12 +120,6 @@
       "title": "A Mangaka's Weirdly Wonderful Workplace",
       "watch_url": "https://aniwatchtv.to/watch/a-mangakas-weirdly-wonderful-workplace-19895",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02dc4031d959c8fda991bdca0de28ffd.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Heaven Scrap Master",
-      "watch_url": "https://aniwatchtv.to/watch/heaven-scrap-master-19940",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
       "stream_url": null
     }
   ]
