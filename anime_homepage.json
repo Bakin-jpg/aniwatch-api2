@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Let's Play",
+      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1335e86cdefd2beacec85fdec69d783.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Dark History of the Reincarnated Villainess",
       "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-19903",
       "image_url": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
@@ -114,12 +120,6 @@
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01673a7d3c4080cb4773e105a1aaa215.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gintama: 3-Z Ginpachi Sensei",
-      "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
       "stream_url": null
     }
   ]
