@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koala's Diary",
+      "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Blue Orchestra Season 2",
       "watch_url": "https://aniwatchtv.to/watch/the-blue-orchestra-season-2-19904",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/818b8d0df6e81a1b7d8dc9abd2127608.jpg",
@@ -114,12 +120,6 @@
       "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
       "watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e05c4d1a105058516d1f96bc78a33d5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Chitose Is in the Ramune Bottle",
-      "watch_url": "https://aniwatchtv.to/watch/chitose-is-in-the-ramune-bottle-19916",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4758edde5ee74d0be518cc17c20f7705.jpg",
       "stream_url": null
     }
   ]
