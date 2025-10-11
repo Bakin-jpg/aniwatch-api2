@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Case Closed",
+      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
@@ -114,12 +120,6 @@
       "title": "Psychic Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/psychic-princess-season-2-19816",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Noble Farmer Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/noble-farmer-season-3-19496",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edeedc7f29fc7c5704111ccba4261bee.jpg",
       "stream_url": null
     }
   ]
