@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
@@ -25,12 +31,6 @@
       "stream_url": null
     },
     {
-      "title": "Spy x Family Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Wild Last Boss Appeared!",
+      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
+      "stream_url": null
+    },
     {
       "title": "Inexpressive Kashiwada and Expressive Oota",
       "watch_url": "https://aniwatchtv.to/watch/inexpressive-kashiwada-and-expressive-oota-19907",
@@ -108,18 +120,6 @@
       "title": "Lingwu Continent",
       "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Sovereign's Ascension 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/the-sovereigns-ascension-2nd-season-19534",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/193cb452f35e1f25f408d704d055006e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jade Dynasty",
-      "watch_url": "https://aniwatchtv.to/watch/jade-dynasty-19807",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2912cb24a8c4368a4a22af5a1126dfe3.jpg",
       "stream_url": null
     }
   ]
