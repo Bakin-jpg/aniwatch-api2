@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Pokémon Horizons: The Series",
+      "watch_url": "https://aniwatchtv.to/watch/pokemon-horizons-the-series-18397",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Psychic Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/psychic-princess-season-2-19816",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
@@ -114,12 +120,6 @@
       "title": "Cats Eye",
       "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Anila to Cocora",
-      "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
       "stream_url": null
     }
   ]
