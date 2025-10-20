@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "A Mangaka's Weirdly Wonderful Workplace",
+      "watch_url": "https://aniwatchtv.to/watch/a-mangakas-weirdly-wonderful-workplace-19895",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02dc4031d959c8fda991bdca0de28ffd.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Punirunes: Puni 3",
       "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
@@ -114,12 +120,6 @@
       "title": "Alma-chan Wants to Have a Family!",
       "watch_url": "https://aniwatchtv.to/watch/alma-chan-wants-to-have-a-family-19888",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9620a43e65d3fb7bf941e890c58014be.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mechanical Marie",
-      "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
       "stream_url": null
     }
   ]
