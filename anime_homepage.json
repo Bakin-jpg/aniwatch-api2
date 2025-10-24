@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Sanda",
+      "watch_url": "https://aniwatchtv.to/watch/sanda-19920",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
+      "stream_url": null
+    },
+    {
       "title": "May I Ask for One Final Thing?",
       "watch_url": "https://aniwatchtv.to/watch/may-i-ask-for-one-final-thing-19927",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47d9623085a6057088ccffdc6198492.jpg",
@@ -114,12 +120,6 @@
       "title": "Supreme God Emperor Season 2",
       "watch_url": "https://aniwatchtv.to/watch/supreme-god-emperor-season-2-18402",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1abaa7f5d440c98591010827e2fe60b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The God of War Dominates",
-      "watch_url": "https://aniwatchtv.to/watch/the-god-of-war-dominates-4037",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
       "stream_url": null
     }
   ]
