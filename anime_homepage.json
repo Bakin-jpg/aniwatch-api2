@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
@@ -25,12 +31,6 @@
       "stream_url": null
     },
     {
-      "title": "Spy x Family Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/77e387903672cb0e6efbfd9ae15080d4.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Wild Last Boss Appeared!",
+      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
+      "stream_url": null
+    },
     {
       "title": "Inexpressive Kashiwada and Expressive Oota",
       "watch_url": "https://aniwatchtv.to/watch/inexpressive-kashiwada-and-expressive-oota-19907",
@@ -108,18 +120,6 @@
       "title": "Ganglion",
       "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yu-Gi-Oh! Card Game: The Chronicles",
-      "watch_url": "https://aniwatchtv.to/watch/yu-gi-oh-card-game-the-chronicles-19609",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56e86bcb87b3de63006fedd3ca3ba93b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Psychic Princess Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/psychic-princess-season-2-19816",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
       "stream_url": null
     }
   ]
