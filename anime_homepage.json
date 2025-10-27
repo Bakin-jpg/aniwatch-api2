@@ -1,9 +1,9 @@
 {
   "spotlight": [
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
       "stream_url": null
     },
     {
@@ -13,9 +13,9 @@
       "stream_url": null
     },
     {
-      "title": "My Hero Academia Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a0531f1ffd9675fd0881a46994cc879f.jpg",
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Swallowed Star 2nd Season",
+      "watch_url": "https://aniwatchtv.to/watch/swallowed-star-2nd-season-18018",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg",
+      "stream_url": null
+    },
     {
       "title": "Onimomomomo",
       "watch_url": "https://aniwatchtv.to/watch/onimomomomo-19937",
@@ -114,12 +120,6 @@
       "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
       "watch_url": "https://aniwatchtv.to/watch/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator-19911",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769091e549c5d0db95b91dddd2ac9646.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mechanical Marie",
-      "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
       "stream_url": null
     }
   ]
