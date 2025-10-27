@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Gintama: 3-Z Ginpachi Sensei",
+      "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Gatherer's Adventure in Isekai",
       "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
@@ -114,12 +120,6 @@
       "title": "The Fated Magical Princess: Who Made Me a Princess",
       "watch_url": "https://aniwatchtv.to/watch/the-fated-magical-princess-who-made-me-a-princess-19875",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hands Off: Sawaranaide Kotesashi-kun",
-      "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-19896",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffb7ca502ab7d2e7d47e45c710f6de37.jpg",
       "stream_url": null
     }
   ]
