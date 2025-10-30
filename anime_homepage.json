@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "BanG Dream-chan",
+      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Purple River 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/purple-river-2nd-season-19837",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd1bfffb385fedfb5c3eb9b4dbfde7e6.jpg",
@@ -114,12 +120,6 @@
       "title": "Heaven Scrap Master",
       "watch_url": "https://aniwatchtv.to/watch/heaven-scrap-master-19940",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Let's Play",
-      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1335e86cdefd2beacec85fdec69d783.jpg",
       "stream_url": null
     }
   ]
