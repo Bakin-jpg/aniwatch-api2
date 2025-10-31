@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Cats Eye",
+      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Ling Jian Zun 4th Season",
       "watch_url": "https://aniwatchtv.to/watch/ling-jian-zun-4th-season-14951",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6a150a93ecc1af79d26860e85177210.jpg",
@@ -114,12 +120,6 @@
       "title": "Anila to Cocora",
       "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Potion, Wagami wo Tasukeru",
-      "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
       "stream_url": null
     }
   ]
