@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Case Closed",
+      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
@@ -114,12 +120,6 @@
       "title": "Swallowed Star 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/swallowed-star-2nd-season-18018",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "May I Ask for One Final Thing?",
-      "watch_url": "https://aniwatchtv.to/watch/may-i-ask-for-one-final-thing-19927",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47d9623085a6057088ccffdc6198492.jpg",
       "stream_url": null
     }
   ]
