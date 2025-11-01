@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
       "watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/3ce22e8aac25f3359aad63dbe06ebe77.jpg",
@@ -10,12 +16,6 @@
       "title": "The Banished Court Magician Aims to Become the Strongest",
       "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "My Hero Academia Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+      "stream_url": null
+    },
     {
       "title": "Noble Farmer Season 3",
       "watch_url": "https://aniwatchtv.to/watch/noble-farmer-season-3-19496",
@@ -114,12 +120,6 @@
       "title": "May I Ask for One Final Thing?",
       "watch_url": "https://aniwatchtv.to/watch/may-i-ask-for-one-final-thing-19927",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47d9623085a6057088ccffdc6198492.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Watari-kun's ****** Is about to Collapse",
-      "watch_url": "https://aniwatchtv.to/watch/watari-kuns-is-about-to-collapse-19769",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7353719ac2fd26e6af72fe773c37a06a.jpg",
       "stream_url": null
     }
   ]
