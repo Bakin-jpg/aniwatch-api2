@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Digimon Beatbreak",
+      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "stream_url": null
+    },
+    {
       "title": "SI-VIS: The Sound of Heroes",
       "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
@@ -114,12 +120,6 @@
       "title": "Spy x Family Season 3",
       "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Wild Last Boss Appeared!",
-      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
       "stream_url": null
     }
   ]
