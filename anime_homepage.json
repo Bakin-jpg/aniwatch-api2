@@ -1,6 +1,18 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
@@ -19,21 +31,9 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gachiakuta",
+      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+      "stream_url": null
+    },
     {
       "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
       "watch_url": "https://aniwatchtv.to/watch/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator-19911",
@@ -102,24 +120,6 @@
       "title": "Soul Land 2: Peerless Tang Sect",
       "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Punirunes: Puni 3",
-      "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Umamusume: Cinderella Gray Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/umamusume-cinderella-gray-part-2-19917",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
       "stream_url": null
     }
   ]
