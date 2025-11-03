@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Plus-sized Misadventures in Love!",
+      "watch_url": "https://aniwatchtv.to/watch/plus-sized-misadventures-in-love-19890",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c3c1ffbc4da69ad24a1e3e5561197a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Isekai Quartet 3",
       "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
@@ -114,12 +120,6 @@
       "title": "Alma-chan Wants to Have a Family!",
       "watch_url": "https://aniwatchtv.to/watch/alma-chan-wants-to-have-a-family-19888",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9620a43e65d3fb7bf941e890c58014be.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mechanical Marie",
-      "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
       "stream_url": null
     }
   ]
