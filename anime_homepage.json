@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Sanda",
+      "watch_url": "https://aniwatchtv.to/watch/sanda-19920",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Honkai: Star Rail Featured Videos",
+      "watch_url": "https://aniwatchtv.to/watch/honkai-star-rail-featured-videos-20001",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5ae3985e53475d30e0e7c3e977825e3.jpg",
+      "stream_url": null
+    },
+    {
       "title": "May I Ask for One Final Thing?",
       "watch_url": "https://aniwatchtv.to/watch/may-i-ask-for-one-final-thing-19927",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47d9623085a6057088ccffdc6198492.jpg",
@@ -108,18 +120,6 @@
       "title": "Anila to Cocora",
       "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Beyblade X",
-      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
-      "stream_url": null
-    },
-    {
-      "title": "Potion, Wagami wo Tasukeru",
-      "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
       "stream_url": null
     }
   ]
