@@ -51,15 +51,15 @@
   ],
   "latest_episodes": [
     {
-      "title": "So You're Raising a Warrior",
-      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
-      "stream_url": null
-    },
-    {
       "title": "The Lenticulars",
       "watch_url": "https://aniwatchtv.to/watch/the-lenticulars-19997",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7da6e584653b987265b6a171c7f3198d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "So You're Raising a Warrior",
+      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
       "stream_url": null
     },
     {
