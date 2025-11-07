@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Anila to Cocora",
+      "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Beyblade X",
+      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+      "stream_url": null
+    },
+    {
       "title": "Potion, Wagami wo Tasukeru",
       "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
@@ -108,18 +120,6 @@
       "title": "Ugoku! Neko Mukashibanashi",
       "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Let's Play",
-      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1335e86cdefd2beacec85fdec69d783.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Dark History of the Reincarnated Villainess",
-      "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-19903",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
       "stream_url": null
     }
   ]
