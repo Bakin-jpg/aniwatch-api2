@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Isekai Quartet 3",
+      "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Mangaka's Weirdly Wonderful Workplace",
       "watch_url": "https://aniwatchtv.to/watch/a-mangakas-weirdly-wonderful-workplace-19895",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02dc4031d959c8fda991bdca0de28ffd.jpg",
@@ -114,12 +120,6 @@
       "title": "Mechanical Marie",
       "watch_url": "https://aniwatchtv.to/watch/mechanical-marie-19900",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44bed9277aff0a605d380a3281e80611.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
       "stream_url": null
     }
   ]
