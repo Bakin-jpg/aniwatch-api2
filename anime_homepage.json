@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ninja vs. Gokudo",
+      "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
       "watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e05c4d1a105058516d1f96bc78a33d5.jpg",
@@ -114,12 +120,6 @@
       "title": "Gachiakuta",
       "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Renegade Immortal",
-      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
       "stream_url": null
     }
   ]
