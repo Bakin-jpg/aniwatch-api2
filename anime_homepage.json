@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "BanG Dream-chan",
+      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Wind Driver In Tang Dynasty",
       "watch_url": "https://aniwatchtv.to/watch/wind-driver-in-tang-dynasty-19936",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f792e433225ac600c4e3d806bdc9f25.jpg",
@@ -114,12 +120,6 @@
       "title": "Ugoku! Neko Mukashibanashi",
       "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "2200-nen Neko no Kuni Nippon",
-      "watch_url": "https://aniwatchtv.to/watch/2200-nen-neko-no-kuni-nippon-19947",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5ffc12bb1a88c998baa32987d65389.jpg",
       "stream_url": null
     }
   ]
