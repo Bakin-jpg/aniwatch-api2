@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "My Hero Academia Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
-      "stream_url": null
-    },
-    {
       "title": "The Banished Court Magician Aims to Become the Strongest",
       "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "A Record of Mortal's Journey to Immortality Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Battle Through The Heavens 5th Season",
+      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+      "stream_url": null
+    },
     {
       "title": "Digimon Beatbreak",
       "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
@@ -108,18 +120,6 @@
       "title": "To Your Eternity Season 3",
       "watch_url": "https://aniwatchtv.to/watch/to-your-eternity-season-3-19929",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8387c83ff77997e7e0a97dde036a384b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Banished Court Magician Aims to Become the Strongest",
-      "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22867d66fcdc249a69bd8f669a83707a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Let This Grieving Soul Retire Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/let-this-grieving-soul-retire-part-2-19925",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deffd7486cbd190f596bc6cb4239bcc1.jpg",
       "stream_url": null
     }
   ]
