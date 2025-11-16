@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Princession Orchestra",
+      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Record of Mortal's Journey to Immortality Season 3",
       "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
@@ -114,12 +120,6 @@
       "title": "Touring After the Apocalypse",
       "watch_url": "https://aniwatchtv.to/watch/touring-after-the-apocalypse-19894",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bd00ecc10b7f8d0b29ac4a24bc83da.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "To Your Eternity Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/to-your-eternity-season-3-19929",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8387c83ff77997e7e0a97dde036a384b.jpg",
       "stream_url": null
     }
   ]
