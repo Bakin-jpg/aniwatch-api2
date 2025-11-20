@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Shrouding the Heavens",
+      "watch_url": "https://aniwatchtv.to/watch/shrouding-the-heavens-18635",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774db8f67bda9e97e285f8ce0fa050b5.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Punirunes: Puni 3",
       "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
@@ -114,12 +120,6 @@
       "title": "Yano-kun's Ordinary Days",
       "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ninja vs. Gokudo",
-      "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
       "stream_url": null
     }
   ]
