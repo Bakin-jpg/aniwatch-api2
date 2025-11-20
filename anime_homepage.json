@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Punirunes: Puni 3",
+      "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Let's Play",
       "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
@@ -114,12 +120,6 @@
       "title": "Ninja vs. Gokudo",
       "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-19928",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e05c4d1a105058516d1f96bc78a33d5.jpg",
       "stream_url": null
     }
   ]
