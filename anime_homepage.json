@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
       "watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/3ce22e8aac25f3359aad63dbe06ebe77.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a4f6342dad9dbdf5a01af1d6f3561a23.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Tougen Anki",
+      "watch_url": "https://aniwatchtv.to/watch/tougen-anki-19779",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d771473a4b74662f3a969a33d0e7951e.jpg",
+      "stream_url": null
+    },
     {
       "title": "The Chosen One",
       "watch_url": "https://aniwatchtv.to/watch/the-chosen-one-19939",
@@ -108,18 +120,6 @@
       "title": "Pass the Monster Meat, Milady!",
       "watch_url": "https://aniwatchtv.to/watch/pass-the-monster-meat-milady-19913",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6db8bf0e0f56f1daf8dd5f6543100319.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Solo Camping for Two",
-      "watch_url": "https://aniwatchtv.to/watch/solo-camping-for-two-19752",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Dusk Beyond the End of the World",
-      "watch_url": "https://aniwatchtv.to/watch/dusk-beyond-the-end-of-the-world-19905",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
       "stream_url": null
     }
   ]
