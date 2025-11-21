@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "2200-nen Neko no Kuni Nippon",
+      "watch_url": "https://aniwatchtv.to/watch/2200-nen-neko-no-kuni-nippon-19947",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5ffc12bb1a88c998baa32987d65389.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Reborn as a Cat",
+      "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Potion, Wagami wo Tasukeru",
       "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
@@ -108,18 +120,6 @@
       "title": "Punirunes: Puni 3",
       "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Let's Play",
-      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Dark History of the Reincarnated Villainess",
-      "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-19903",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
       "stream_url": null
     }
   ]
