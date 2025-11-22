@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "The Banished Court Magician Aims to Become the Strongest",
+      "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
@@ -41,15 +47,21 @@
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
       "stream_url": null
+    }
+  ],
+  "latest_episodes": [
+    {
+      "title": "Let This Grieving Soul Retire Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/let-this-grieving-soul-retire-part-2-19925",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deffd7486cbd190f596bc6cb4239bcc1.jpg",
+      "stream_url": null
     },
     {
       "title": "The Banished Court Magician Aims to Become the Strongest",
       "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22867d66fcdc249a69bd8f669a83707a.jpg",
       "stream_url": null
-    }
-  ],
-  "latest_episodes": [
+    },
     {
       "title": "A Wild Last Boss Appeared!",
       "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
@@ -108,18 +120,6 @@
       "title": "Purple River 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/purple-river-2nd-season-19837",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd1bfffb385fedfb5c3eb9b4dbfde7e6.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Pokémon Horizons: The Series",
-      "watch_url": "https://aniwatchtv.to/watch/pokemon-horizons-the-series-18397",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Himitsu no AiPri 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
       "stream_url": null
     }
   ]
