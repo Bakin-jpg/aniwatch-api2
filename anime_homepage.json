@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Gachiakuta",
+      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+      "stream_url": null
+    },
     {
       "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
       "watch_url": "https://aniwatchtv.to/watch/dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator-19911",
@@ -108,18 +120,6 @@
       "title": "Princession Orchestra",
       "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "SI-VIS: The Sound of Heroes",
-      "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
       "stream_url": null
     }
   ]
