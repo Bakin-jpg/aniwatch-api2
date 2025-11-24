@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Gintama: 3-Z Ginpachi Sensei",
+      "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Gatherer's Adventure in Isekai",
       "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
@@ -114,12 +120,6 @@
       "title": "One Piece - Wano Kuni SP",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-wano-kuni-sp-18217",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd758a025129d9fb3806b27d3e5f428b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
       "stream_url": null
     }
   ]
