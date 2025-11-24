@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
-      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/d4df382ec04f214040763d4fc0211c45.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+      "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01673a7d3c4080cb4773e105a1aaa215.jpg",
+      "stream_url": null
+    },
     {
       "title": "Gintama: 3-Z Ginpachi Sensei",
       "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
@@ -114,12 +120,6 @@
       "title": "Hands Off: Sawaranaide Kotesashi-kun",
       "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-19896",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffb7ca502ab7d2e7d47e45c710f6de37.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "One Piece - Wano Kuni SP",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-wano-kuni-sp-18217",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd758a025129d9fb3806b27d3e5f428b.jpg",
       "stream_url": null
     }
   ]
