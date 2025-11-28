@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Sanda",
+      "watch_url": "https://aniwatchtv.to/watch/sanda-19920",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Style of Hiroshi Nohara Lunch",
       "watch_url": "https://aniwatchtv.to/watch/style-of-hiroshi-nohara-lunch-19885",
       "image_url": "https://cdn.myanimelist.net/images/anime/1736/148429l.jpg",
@@ -114,12 +120,6 @@
       "title": "Solo Camping for Two",
       "watch_url": "https://aniwatchtv.to/watch/solo-camping-for-two-19752",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Star Brighter Than the Sun",
-      "watch_url": "https://aniwatchtv.to/watch/a-star-brighter-than-the-sun-19898",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
       "stream_url": null
     }
   ]
