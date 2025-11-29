@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "My Hero Academia Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
-      "stream_url": null
-    },
-    {
       "title": "A Wild Last Boss Appeared!",
       "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
       "stream_url": null
     },
     {
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Wild Last Boss Appeared!",
+      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
+      "stream_url": null
+    },
     {
       "title": "Inexpressive Kashiwada and Expressive Oota",
       "watch_url": "https://aniwatchtv.to/watch/inexpressive-kashiwada-and-expressive-oota-19907",
@@ -108,18 +120,6 @@
       "title": "Heaven Scrap Master",
       "watch_url": "https://aniwatchtv.to/watch/heaven-scrap-master-19940",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Chosen One",
-      "watch_url": "https://aniwatchtv.to/watch/the-chosen-one-19939",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb81c83739e51ee9a84f7076c965834c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "On The Edge Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/on-the-edge-season-3-19961",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c22a1b15e25023916d25b373cb3f648f.jpg",
       "stream_url": null
     }
   ]
