@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "A Gatherer's Adventure in Isekai",
+      "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "A Gatherer's Adventure in Isekai",
-      "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
-      "stream_url": null
-    },
-    {
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a95b402657d2c052ef51a04440af84c7.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "A Gatherer's Adventure in Isekai",
+      "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c514b6042ba1d9092b292ea84be8ae23.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Plus-sized Misadventures in Love!",
+      "watch_url": "https://aniwatchtv.to/watch/plus-sized-misadventures-in-love-19890",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c3c1ffbc4da69ad24a1e3e5561197a.jpg",
+      "stream_url": null
+    },
     {
       "title": "Isekai Quartet 3",
       "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
@@ -108,18 +120,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gachiakuta",
-      "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
       "stream_url": null
     }
   ]
