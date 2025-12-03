@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Let's Play",
+      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Dark History of the Reincarnated Villainess",
       "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-19903",
       "image_url": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
@@ -114,12 +120,6 @@
       "title": "Yano-kun's Ordinary Days",
       "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ninja vs. Gokudo",
-      "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
       "stream_url": null
     }
   ]
