@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Nmeneko",
+      "watch_url": "https://aniwatchtv.to/watch/nmeneko-19697",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc697363ca9cfa1498346961d0c9717.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Forget That Night, Your Majesty",
       "watch_url": "https://aniwatchtv.to/watch/forget-that-night-your-majesty-19881",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7345272ef9f0c66bd005f2087117fa48.jpg",
@@ -114,12 +120,6 @@
       "title": "Plus-sized Misadventures in Love!",
       "watch_url": "https://aniwatchtv.to/watch/plus-sized-misadventures-in-love-19890",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c3c1ffbc4da69ad24a1e3e5561197a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Isekai Quartet 3",
-      "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
       "stream_url": null
     }
   ]
