@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Reborn as a Cat",
+      "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Let's Play",
       "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
@@ -114,12 +120,6 @@
       "title": "Forget That Night, Your Majesty",
       "watch_url": "https://aniwatchtv.to/watch/forget-that-night-your-majesty-19881",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7345272ef9f0c66bd005f2087117fa48.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yano-kun's Ordinary Days",
-      "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
       "stream_url": null
     }
   ]
