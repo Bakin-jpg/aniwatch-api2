@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "BanG Dream-chan",
+      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Heaven Scrap Master",
       "watch_url": "https://aniwatchtv.to/watch/heaven-scrap-master-19940",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
@@ -114,12 +120,6 @@
       "title": "Hero Without a Class: Who Even Needs Skills?!",
       "watch_url": "https://aniwatchtv.to/watch/hero-without-a-class-who-even-needs-skills-19912",
       "image_url": "https://cdn.myanimelist.net/images/anime/1721/151097l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ugoku! Neko Mukashibanashi",
-      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
       "stream_url": null
     }
   ]
