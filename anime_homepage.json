@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Solo Camping for Two",
+      "watch_url": "https://aniwatchtv.to/watch/solo-camping-for-two-19752",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Dusk Beyond the End of the World",
       "watch_url": "https://aniwatchtv.to/watch/dusk-beyond-the-end-of-the-world-19905",
       "image_url": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
@@ -114,12 +120,6 @@
       "title": "Reborn as a Cat",
       "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Let's Play",
-      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
       "stream_url": null
     }
   ]
