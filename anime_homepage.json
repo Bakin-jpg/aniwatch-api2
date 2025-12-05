@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Paws & Palaces",
+      "watch_url": "https://aniwatchtv.to/watch/paws-and-palaces-20037",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/498a2358c771af03a95554cc2ad8a2df.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Alchemist's Rise",
+      "watch_url": "https://aniwatchtv.to/watch/the-alchemists-rise-20045",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e80df6b75fc03807d49253130068a756.jpg",
+      "stream_url": null
+    },
+    {
       "title": "So You're Raising a Warrior",
       "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
@@ -108,18 +120,6 @@
       "title": "Potion, Wagami wo Tasukeru",
       "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Pass the Monster Meat, Milady!",
-      "watch_url": "https://aniwatchtv.to/watch/pass-the-monster-meat-milady-19913",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6db8bf0e0f56f1daf8dd5f6543100319.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Solo Camping for Two",
-      "watch_url": "https://aniwatchtv.to/watch/solo-camping-for-two-19752",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
       "stream_url": null
     }
   ]
