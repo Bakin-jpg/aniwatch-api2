@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Lenticulars",
+      "watch_url": "https://aniwatchtv.to/watch/the-lenticulars-19997",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7da6e584653b987265b6a171c7f3198d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Paws & Palaces",
       "watch_url": "https://aniwatchtv.to/watch/paws-and-palaces-20037",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/498a2358c771af03a95554cc2ad8a2df.jpg",
@@ -114,12 +120,6 @@
       "title": "Dragon Raja Season 2",
       "watch_url": "https://aniwatchtv.to/watch/dragon-raja-season-2-19811",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cda2c84e268ea0ccad62300808dfaf5e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Potion, Wagami wo Tasukeru",
-      "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
       "stream_url": null
     }
   ]
