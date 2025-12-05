@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Beyblade X",
+      "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+      "stream_url": null
+    },
+    {
       "title": "Sanda",
       "watch_url": "https://aniwatchtv.to/watch/sanda-19920",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
@@ -114,12 +120,6 @@
       "title": "So You're Raising a Warrior",
       "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The God of War Dominates",
-      "watch_url": "https://aniwatchtv.to/watch/the-god-of-war-dominates-4037",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
       "stream_url": null
     }
   ]
