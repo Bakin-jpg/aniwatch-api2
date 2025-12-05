@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Tougen Anki",
+      "watch_url": "https://aniwatchtv.to/watch/tougen-anki-19779",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
       "watch_url": "https://aniwatchtv.to/watch/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-19908",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d771473a4b74662f3a969a33d0e7951e.jpg",
@@ -114,12 +120,6 @@
       "title": "Twin Martial Spirits",
       "watch_url": "https://aniwatchtv.to/watch/twin-martial-spirits-19830",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c74d427ff0df122ded2ca9924e8305dc.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Monster Strike: Deadverse Reloaded",
-      "watch_url": "https://aniwatchtv.to/watch/monster-strike-deadverse-reloaded-19882",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/591ee825ee4c1fd6c9cdaf98f8c9b852.jpg",
       "stream_url": null
     }
   ]
