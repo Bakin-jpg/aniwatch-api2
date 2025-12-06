@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "A Wild Last Boss Appeared!",
+      "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
+      "stream_url": null
+    },
+    {
       "title": "My Hero Academia Final Season",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
@@ -41,15 +47,21 @@
       "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/1aca3f6a2579fba9310e6765a6ee26c7.jpg",
       "stream_url": null
+    }
+  ],
+  "latest_episodes": [
+    {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
+      "stream_url": null
     },
     {
       "title": "A Wild Last Boss Appeared!",
       "watch_url": "https://aniwatchtv.to/watch/a-wild-last-boss-appeared-19909",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/dabd71c694f52722fd0bce176c4eff64.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bbde70a6ecf5cfce152f122da1d9cb0.jpg",
       "stream_url": null
-    }
-  ],
-  "latest_episodes": [
+    },
     {
       "title": "Inexpressive Kashiwada and Expressive Oota",
       "watch_url": "https://aniwatchtv.to/watch/inexpressive-kashiwada-and-expressive-oota-19907",
@@ -108,18 +120,6 @@
       "title": "Love Between Fairy and Devil 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/love-between-fairy-and-devil-2nd-season-19818",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ac67f7a6216609585a552172bb18d11.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Wind Driver In Tang Dynasty",
-      "watch_url": "https://aniwatchtv.to/watch/wind-driver-in-tang-dynasty-19936",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f792e433225ac600c4e3d806bdc9f25.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ascendants of the Nine Suns",
-      "watch_url": "https://aniwatchtv.to/watch/ascendants-of-the-nine-suns-20021",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a383354f8ef4ab0bb5ffcd37868daea.jpg",
       "stream_url": null
     }
   ]
