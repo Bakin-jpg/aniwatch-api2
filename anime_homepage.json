@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -41,15 +47,21 @@
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/a95b402657d2c052ef51a04440af84c7.jpg",
       "stream_url": null
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
-      "stream_url": null
     }
   ],
   "latest_episodes": [
+    {
+      "title": "One-Punch Man Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hands Off: Sawaranaide Kotesashi-kun [UNCENSORED]",
+      "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-uncensored-19943",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f26bf6c5f79a0f4860411e3bc9a75aa5.jpg",
+      "stream_url": null
+    },
     {
       "title": "The Fated Magical Princess: Who Made Me a Princess",
       "watch_url": "https://aniwatchtv.to/watch/the-fated-magical-princess-who-made-me-a-princess-19875",
@@ -108,18 +120,6 @@
       "title": "Battle Through The Heavens 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Umamusume: Cinderella Gray Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/umamusume-cinderella-gray-part-2-19917",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
       "stream_url": null
     }
   ]
