@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Punirunes: Puni 3",
+      "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a2fc7ec4b9c0592493ef192ad2a9d.jpg",
@@ -114,12 +120,6 @@
       "title": "Li'l Miss Vampire Can't Suck Right",
       "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Battle Through The Heavens 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
       "stream_url": null
     }
   ]
