@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Let's Play",
+      "watch_url": "https://aniwatchtv.to/watch/lets-play-19891",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf6b65b575c0d90c2709087d9af45d83.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Dark History of the Reincarnated Villainess",
       "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-19903",
       "image_url": "https://cdn.myanimelist.net/images/anime/1347/150603l.jpg",
@@ -114,12 +120,6 @@
       "title": "Martial Shattered Galaxy",
       "watch_url": "https://aniwatchtv.to/watch/martial-shattered-galaxy-19844",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Paws & Palaces",
-      "watch_url": "https://aniwatchtv.to/watch/paws-and-palaces-20037",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/498a2358c771af03a95554cc2ad8a2df.jpg",
       "stream_url": null
     }
   ]
