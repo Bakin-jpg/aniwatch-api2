@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "So You're Raising a Warrior",
+      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Secrets of the Rivers",
       "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
@@ -114,12 +120,6 @@
       "title": "Awkward Senpai",
       "watch_url": "https://aniwatchtv.to/watch/awkward-senpai-19918",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7875b4e4be9b36a0b02342b24b72da53.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "BanG Dream-chan",
-      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
       "stream_url": null
     }
   ]
