@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Sanda",
+      "watch_url": "https://aniwatchtv.to/watch/sanda-19920",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567fb055ca20bb27ae8b59bda06ed3eb.jpg",
+      "stream_url": null
+    },
+    {
       "title": "May I Ask for One Final Thing?",
       "watch_url": "https://aniwatchtv.to/watch/may-i-ask-for-one-final-thing-19927",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47d9623085a6057088ccffdc6198492.jpg",
@@ -114,12 +120,6 @@
       "title": "Soul of the Dragon",
       "watch_url": "https://aniwatchtv.to/watch/soul-of-the-dragon-20033",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82f226ad3943dd89fb491ff1fb053022.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "So You're Raising a Warrior",
-      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
       "stream_url": null
     }
   ]
