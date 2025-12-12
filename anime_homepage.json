@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Lenticulars",
+      "watch_url": "https://aniwatchtv.to/watch/the-lenticulars-19997",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7da6e584653b987265b6a171c7f3198d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Lingwu Continent",
       "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
@@ -114,12 +120,6 @@
       "title": "Potion, Wagami wo Tasukeru",
       "watch_url": "https://aniwatchtv.to/watch/potion-wagami-wo-tasukeru-19886",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042bdac9a03e8c072106eaf40b768ae5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Pass the Monster Meat, Milady!",
-      "watch_url": "https://aniwatchtv.to/watch/pass-the-monster-meat-milady-19913",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6db8bf0e0f56f1daf8dd5f6543100319.jpg",
       "stream_url": null
     }
   ]
