@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Li'l Miss Vampire Can't Suck Right",
+      "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Umamusume: Cinderella Gray Part 2",
       "watch_url": "https://aniwatchtv.to/watch/umamusume-cinderella-gray-part-2-19917",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
@@ -114,12 +120,6 @@
       "title": "Any and All Living Things",
       "watch_url": "https://aniwatchtv.to/watch/any-and-all-living-things-19698",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Anila to Cocora",
-      "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
       "stream_url": null
     }
   ]
