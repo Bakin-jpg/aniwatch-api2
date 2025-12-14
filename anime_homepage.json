@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Digimon Beatbreak",
+      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Daily Life of the Immortal King 5",
       "watch_url": "https://aniwatchtv.to/watch/the-daily-life-of-the-immortal-king-5-20061",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
@@ -114,12 +120,6 @@
       "title": "Ranma ½ (2024) 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/ranma-2024-2nd-season-19926",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52efb4fd826d3563df095495fef52d27.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tojima Tanzaburo Wants to Be a Masked Rider",
-      "watch_url": "https://aniwatchtv.to/watch/tojima-tanzaburo-wants-to-be-a-masked-rider-19892",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
       "stream_url": null
     }
   ]
