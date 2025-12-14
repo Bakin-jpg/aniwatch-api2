@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Umamusume: Cinderella Gray Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/umamusume-cinderella-gray-part-2-19917",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Punirunes: Puni 3",
       "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
@@ -114,12 +120,6 @@
       "title": "Anila to Cocora",
       "watch_url": "https://aniwatchtv.to/watch/anila-to-cocora-19942",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc06c0c06cac03acdb596b5a5991b82.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kingdom: Season 6",
-      "watch_url": "https://aniwatchtv.to/watch/kingdom-season-6-19914",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f5f2d39e92ac10eb0e809e39bd430aa.jpg",
       "stream_url": null
     }
   ]
