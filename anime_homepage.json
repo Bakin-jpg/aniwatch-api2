@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2f47e2d725857103471c84591c26ef2b.jpg",
@@ -41,15 +47,39 @@
       "watch_url": "https://aniwatchtv.to/watch/a-gatherers-adventure-in-isekai-19901",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/cbebd7e7e61f157b6480aeba6f675621.jpg",
       "stream_url": null
+    }
+  ],
+  "latest_episodes": [
+    {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hands Off: Sawaranaide Kotesashi-kun [UNCENSORED]",
+      "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-uncensored-19943",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f26bf6c5f79a0f4860411e3bc9a75aa5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Fated Magical Princess: Who Made Me a Princess",
+      "watch_url": "https://aniwatchtv.to/watch/the-fated-magical-princess-who-made-me-a-princess-19875",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bf5d4a75c79a3b89c8c4c6e15f5a1f.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Hands Off: Sawaranaide Kotesashi-kun",
+      "watch_url": "https://aniwatchtv.to/watch/hands-off-sawaranaide-kotesashi-kun-19896",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffb7ca502ab7d2e7d47e45c710f6de37.jpg",
+      "stream_url": null
     },
     {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
       "stream_url": null
-    }
-  ],
-  "latest_episodes": [
+    },
     {
       "title": "One-Punch Man Season 3",
       "watch_url": "https://aniwatchtv.to/watch/one-punch-man-season-3-19932",
@@ -90,36 +120,6 @@
       "title": "Li'l Miss Vampire Can't Suck Right",
       "watch_url": "https://aniwatchtv.to/watch/lil-miss-vampire-cant-suck-right-19897",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5edab5f66240b8c9d114c41ac5fcfe79.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Umamusume: Cinderella Gray Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/umamusume-cinderella-gray-part-2-19917",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dd18f216d65eb1e768f07e3490d744.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Punirunes: Puni 3",
-      "watch_url": "https://aniwatchtv.to/watch/punirunes-puni-3-19810",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e1961fa1f8ca51c8a40908c049118f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Princession Orchestra",
-      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Daily Life of the Immortal King 5",
-      "watch_url": "https://aniwatchtv.to/watch/the-daily-life-of-the-immortal-king-5-20061",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
       "stream_url": null
     }
   ]
