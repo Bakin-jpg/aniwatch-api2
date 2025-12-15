@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Plus-sized Misadventures in Love!",
+      "watch_url": "https://aniwatchtv.to/watch/plus-sized-misadventures-in-love-19890",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c3c1ffbc4da69ad24a1e3e5561197a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Isekai Quartet 3",
       "watch_url": "https://aniwatchtv.to/watch/isekai-quartet-3-19951",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34698a4f6129d788e087b6435c7cb35b.jpg",
@@ -114,12 +120,6 @@
       "title": "Gachiakuta",
       "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
       "stream_url": null
     }
   ]
