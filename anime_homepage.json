@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Yano-kun's Ordinary Days",
+      "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Ninja vs. Gokudo",
       "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
@@ -114,12 +120,6 @@
       "title": "Perfect World",
       "watch_url": "https://aniwatchtv.to/watch/perfect-world-17492",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Battle Through The Heavens 5th Season",
-      "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
       "stream_url": null
     }
   ]
