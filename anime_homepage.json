@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ninja vs. Gokudo",
+      "watch_url": "https://aniwatchtv.to/watch/ninja-vs-gokudo-19887",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81c6934a8a2a942025682d55bac93f29.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Chitose Is in the Ramune Bottle",
       "watch_url": "https://aniwatchtv.to/watch/chitose-is-in-the-ramune-bottle-19916",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4758edde5ee74d0be518cc17c20f7705.jpg",
@@ -114,12 +120,6 @@
       "title": "Battle Through The Heavens 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/battle-through-the-heavens-5th-season-18119",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The God of War Dominates",
-      "watch_url": "https://aniwatchtv.to/watch/the-god-of-war-dominates-4037",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
       "stream_url": null
     }
   ]
