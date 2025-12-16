@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koupen-chan",
+      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Martial Shattered Galaxy",
       "watch_url": "https://aniwatchtv.to/watch/martial-shattered-galaxy-19844",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
@@ -114,12 +120,6 @@
       "title": "My Status as an Assassin Obviously Exceeds the Hero's",
       "watch_url": "https://aniwatchtv.to/watch/my-status-as-an-assassin-obviously-exceeds-the-heros-19922",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01673a7d3c4080cb4773e105a1aaa215.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gintama: 3-Z Ginpachi Sensei",
-      "watch_url": "https://aniwatchtv.to/watch/gintama-3-z-ginpachi-sensei-19924",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2c591f2a9ca18b8738615bec4a0f879.jpg",
       "stream_url": null
     }
   ]
