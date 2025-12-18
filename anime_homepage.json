@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Koala's Diary",
+      "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Secrets of the Rivers",
       "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
@@ -114,12 +120,6 @@
       "title": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
       "watch_url": "https://aniwatchtv.to/watch/disney-twisted-wonderland-the-animation-episode-of-heartslabyul-19878",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc23b09242e1346f5e41c3cc7a03afad.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yano-kun's Ordinary Days",
-      "watch_url": "https://aniwatchtv.to/watch/yano-kuns-ordinary-days-19906",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91f39fe0301bd4916b354604a7625fd2.jpg",
       "stream_url": null
     }
   ]
