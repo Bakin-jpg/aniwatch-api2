@@ -51,9 +51,21 @@
   ],
   "latest_episodes": [
     {
+      "title": "Solo Camping for Two",
+      "watch_url": "https://aniwatchtv.to/watch/solo-camping-for-two-19752",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Star Brighter Than the Sun",
       "watch_url": "https://aniwatchtv.to/watch/a-star-brighter-than-the-sun-19898",
       "image_url": "https://cdn.myanimelist.net/images/anime/1971/149410l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dusk Beyond the End of the World",
+      "watch_url": "https://aniwatchtv.to/watch/dusk-beyond-the-end-of-the-world-19905",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1294/151734l.jpg",
       "stream_url": null
     },
     {
@@ -108,18 +120,6 @@
       "title": "The Blue Orchestra Season 2",
       "watch_url": "https://aniwatchtv.to/watch/the-blue-orchestra-season-2-19904",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/818b8d0df6e81a1b7d8dc9abd2127608.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Wandance",
-      "watch_url": "https://aniwatchtv.to/watch/wandance-19915",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e540925c474669bf2176db7124fa205.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kakuriyo: Bed and Breakfast for Spirits 2",
-      "watch_url": "https://aniwatchtv.to/watch/kakuriyo-bed-and-breakfast-for-spirits-2-19919",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/502c056094ff25ca5fe7cbd1ff6bb38e.jpg",
       "stream_url": null
     }
   ]
