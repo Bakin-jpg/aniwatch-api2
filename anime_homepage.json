@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "My Hero Academia Final Season",
+      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Gachiakuta",
       "watch_url": "https://aniwatchtv.to/watch/gachiakuta-19785",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/66612b4eeee3a84d5cd704db0eef65cf.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "My Hero Academia Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-final-season-19930",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4f4966ce74cde6a1297f0470cc657018.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Digimon Beatbreak",
+      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "stream_url": null
+    },
     {
       "title": "The Daily Life of the Immortal King 5",
       "watch_url": "https://aniwatchtv.to/watch/the-daily-life-of-the-immortal-king-5-20061",
@@ -114,12 +120,6 @@
       "title": "The Banished Court Magician Aims to Become the Strongest",
       "watch_url": "https://aniwatchtv.to/watch/the-banished-court-magician-aims-to-become-the-strongest-19902",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22867d66fcdc249a69bd8f669a83707a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Spy x Family Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
       "stream_url": null
     }
   ]
