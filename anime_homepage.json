@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Spy x Family Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-family-season-3-19931",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162bbe5c3e6529b2449e735ae48c270e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Tales of Wedding Rings Season 2",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-wedding-rings-season-2-19921",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4df2e94f170a2ec11149f0ae16f3934.jpg",
@@ -114,12 +120,6 @@
       "title": "Cats Eye",
       "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Lingwu Continent",
-      "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
       "stream_url": null
     }
   ]
