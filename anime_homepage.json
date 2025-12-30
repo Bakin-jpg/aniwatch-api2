@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Chitose Is in the Ramune Bottle",
+      "watch_url": "https://aniwatchtv.to/watch/chitose-is-in-the-ramune-bottle-19916",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4758edde5ee74d0be518cc17c20f7705.jpg",
+      "stream_url": null
+    },
+    {
       "title": "With You, Our Love Will Make It Through",
       "watch_url": "https://aniwatchtv.to/watch/with-you-our-love-will-make-it-through-19899",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41a6a9c03c0272dda7d1a4b74cc8e081.jpg",
@@ -114,12 +120,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Koupen-chan",
-      "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
       "stream_url": null
     }
   ]
