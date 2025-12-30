@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Swords 2",
+      "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Celestial Above All",
       "watch_url": "https://aniwatchtv.to/watch/celestial-above-all-19825",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9f0ae9f25f1229dd87d3a2f418e339.jpg",
@@ -114,12 +120,6 @@
       "title": "Tales of Herding Gods",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "A Record of Mortal's Journey to Immortality Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
       "stream_url": null
     }
   ]
