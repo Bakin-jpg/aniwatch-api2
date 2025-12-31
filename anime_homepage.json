@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Tales of Demons and Gods Season 9",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-demons-and-gods-season-9-19824",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/270e92fd2fc7ca05669dc433a3f641b8.jpg",
@@ -114,12 +120,6 @@
       "title": "100 Meters",
       "watch_url": "https://aniwatchtv.to/watch/100-meters-19720",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/311bd4057f10eb1b5862f2e35217a26f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Chitose Is in the Ramune Bottle",
-      "watch_url": "https://aniwatchtv.to/watch/chitose-is-in-the-ramune-bottle-19916",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4758edde5ee74d0be518cc17c20f7705.jpg",
       "stream_url": null
     }
   ]
