@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Cats Eye",
+      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
+      "stream_url": null
+    },
+    {
       "title": "So You're Raising a Warrior",
       "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
@@ -114,12 +120,6 @@
       "title": "Tamon's B-Side",
       "watch_url": "https://aniwatchtv.to/watch/tamons-b-side-20353",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
       "stream_url": null
     }
   ]
