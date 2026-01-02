@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "So You're Raising a Warrior",
+      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Yao-Chinese Folktales 2",
       "watch_url": "https://aniwatchtv.to/watch/yao-chinese-folktales-2-20149",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/101a5c878a09d638a109fece3d4e6b0d.jpg",
@@ -114,12 +120,6 @@
       "title": "Jack-of-All-Trades, Party of None",
       "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Demons and Gods Season 9",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-demons-and-gods-season-9-19824",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/270e92fd2fc7ca05669dc433a3f641b8.jpg",
       "stream_url": null
     }
   ]
