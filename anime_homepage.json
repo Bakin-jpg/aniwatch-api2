@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Swords 2",
+      "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Cats Eye",
       "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
@@ -114,12 +120,6 @@
       "title": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
       "watch_url": "https://aniwatchtv.to/watch/kaguya-sama-love-is-war-stairway-to-adulthood-20441",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b248e1b589237848f79ac3cfebace8c0.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tamon's B-Side",
-      "watch_url": "https://aniwatchtv.to/watch/tamons-b-side-20353",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
       "stream_url": null
     }
   ]
