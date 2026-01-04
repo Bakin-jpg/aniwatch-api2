@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Hana-Kimi",
+      "watch_url": "https://aniwatchtv.to/watch/hana-kimi-20285",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9405357f244e97183f0aba8fc86a2f42.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Kunon the Sorcerer Can See",
+      "watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09a1343f159cd056e35ce68dbb12ede.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fate/strange Fake",
       "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
@@ -108,18 +120,6 @@
       "title": "One Hundred Thousand Years of Qi Refining",
       "watch_url": "https://aniwatchtv.to/watch/one-hundred-thousand-years-of-qi-refining-19182",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aa3770a48ac6a8500d378819d0de918.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Swords 2",
-      "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Cats Eye",
-      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
       "stream_url": null
     }
   ]
