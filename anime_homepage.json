@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Fate/strange Fake",
+      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Digimon Beatbreak",
       "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
@@ -75,8 +81,8 @@
       "stream_url": null
     },
     {
-      "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-      "watch_url": "https://aniwatchtv.to/watch/saioshi-no-gikei-wo-mederu-tame-nagaiki-shimasu-20213",
+      "title": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
+      "watch_url": "https://aniwatchtv.to/watch/ill-live-a-long-life-to-dote-on-my-favorite-stepbrother-20213",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
       "stream_url": null
     },
@@ -114,12 +120,6 @@
       "title": "Cats Eye",
       "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "So You're Raising a Warrior",
-      "watch_url": "https://aniwatchtv.to/watch/so-youre-raising-a-warrior-19977",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f94ac6397f2a5aacdc40d62dd5785d2.jpg",
       "stream_url": null
     }
   ]
