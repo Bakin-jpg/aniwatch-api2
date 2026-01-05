@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Soul Land 2: Peerless Tang Sect",
+      "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Record of Mortal's Journey to Immortality Season 3",
       "watch_url": "https://aniwatchtv.to/watch/a-record-of-mortals-journey-to-immortality-season-3-19015",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
@@ -114,12 +120,6 @@
       "title": "Digimon Beatbreak",
       "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "SI-VIS: The Sound of Heroes",
-      "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
       "stream_url": null
     }
   ]
