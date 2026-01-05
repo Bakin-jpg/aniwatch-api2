@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Perfect World",
+      "watch_url": "https://aniwatchtv.to/watch/perfect-world-17492",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Soul Land 2: Peerless Tang Sect",
       "watch_url": "https://aniwatchtv.to/watch/soul-land-2-peerless-tang-sect-18416",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
@@ -114,12 +120,6 @@
       "title": "Fate/strange Fake",
       "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
       "stream_url": null
     }
   ]
