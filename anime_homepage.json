@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Monster Strike: Deadverse Reloaded",
+      "watch_url": "https://aniwatchtv.to/watch/monster-strike-deadverse-reloaded-19882",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/591ee825ee4c1fd6c9cdaf98f8c9b852.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Case Book of Arne",
       "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
@@ -114,12 +120,6 @@
       "title": "Transcend Evolution",
       "watch_url": "https://aniwatchtv.to/watch/transcend-evolution-20433",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87d1b84204c99d67104496d81bc08283.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Sword and Fairy 3",
-      "watch_url": "https://aniwatchtv.to/watch/sword-and-fairy-3-20437",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c7c45a1dbe2d533079b3677d4c4c960.jpg",
       "stream_url": null
     }
   ]
