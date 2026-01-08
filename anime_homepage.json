@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Champignon Witch",
+      "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Anyway, I'm Falling in Love with You. Season 2",
       "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
@@ -114,12 +120,6 @@
       "title": "Martial Shattered Galaxy",
       "watch_url": "https://aniwatchtv.to/watch/martial-shattered-galaxy-19844",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Celestial Above All",
-      "watch_url": "https://aniwatchtv.to/watch/celestial-above-all-19825",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9f0ae9f25f1229dd87d3a2f418e339.jpg",
       "stream_url": null
     }
   ]
