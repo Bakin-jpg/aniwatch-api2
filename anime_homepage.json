@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "BanG Dream-chan",
+      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Reborn as a Cat",
       "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
@@ -114,12 +120,6 @@
       "title": "A Gentle Noble's Vacation Recommendation",
       "watch_url": "https://aniwatchtv.to/watch/a-gentle-nobles-vacation-recommendation-20281",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
       "stream_url": null
     }
   ]
