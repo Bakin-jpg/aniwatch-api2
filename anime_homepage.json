@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Cats Eye",
+      "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Swords 2",
       "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
@@ -114,12 +120,6 @@
       "title": "Chained Soldier Season 2",
       "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ca835ceebe8c20c8274ba494935e2c2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Invisible Man and His Soon-to-Be Wife",
-      "watch_url": "https://aniwatchtv.to/watch/the-invisible-man-and-his-soon-to-be-wife-20317",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4851fb89c0e43c896b30c6522a2acb27.jpg",
       "stream_url": null
     }
   ]
