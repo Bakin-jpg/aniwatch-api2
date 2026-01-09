@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Dark Moon: The Blood Altar",
+      "watch_url": "https://aniwatchtv.to/watch/dark-moon-the-blood-altar-20265",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f97c6bbdeda3a9f48bd0332409a525.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Cats Eye",
       "watch_url": "https://aniwatchtv.to/watch/cats-eye-19727",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6127cf2916944a59de363a3dfbf65161.jpg",
@@ -114,12 +120,6 @@
       "title": "Roll Over and Die",
       "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Chained Soldier Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ca835ceebe8c20c8274ba494935e2c2.jpg",
       "stream_url": null
     }
   ]
