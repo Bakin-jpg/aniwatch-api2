@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Case Closed",
+      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Blue Miburo Season 2",
       "watch_url": "https://aniwatchtv.to/watch/blue-miburo-season-2-20073",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
@@ -114,12 +120,6 @@
       "title": "Cardfight!! Vanguard: Divinez Parallactic Clash",
       "watch_url": "https://aniwatchtv.to/watch/cardfight-vanguard-divinez-parallactic-clash-20189",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09863939d7b0375acc772d55e4d6ce8b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ganglion",
-      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
       "stream_url": null
     }
   ]
