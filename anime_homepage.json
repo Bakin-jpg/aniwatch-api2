@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Blue Miburo Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/blue-miburo-season-2-20073",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Hundred Thousand Years of Qi Refining",
       "watch_url": "https://aniwatchtv.to/watch/one-hundred-thousand-years-of-qi-refining-19182",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aa3770a48ac6a8500d378819d0de918.jpg",
@@ -114,12 +120,6 @@
       "title": "Ganglion",
       "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Himitsu no AiPri 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
       "stream_url": null
     }
   ]
