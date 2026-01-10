@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Pokémon Horizons: The Series",
+      "watch_url": "https://aniwatchtv.to/watch/pokemon-horizons-the-series-18397",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
@@ -114,12 +120,6 @@
       "title": "The Outcast 6",
       "watch_url": "https://aniwatchtv.to/watch/the-outcast-6-20161",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Champignon Witch",
-      "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
       "stream_url": null
     }
   ]
