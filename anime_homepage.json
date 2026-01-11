@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Kaya-chan Isn't Scary",
+      "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "You and I Are Polar Opposites",
       "watch_url": "https://aniwatchtv.to/watch/you-and-i-are-polar-opposites-20369",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb483187b3b2ec503ee3aca06211d063.jpg",
@@ -114,12 +120,6 @@
       "title": "Beyblade X",
       "watch_url": "https://aniwatchtv.to/watch/beyblade-x-18632",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
-      "stream_url": null
-    },
-    {
-      "title": "Tojima Tanzaburo Wants to Be a Masked Rider",
-      "watch_url": "https://aniwatchtv.to/watch/tojima-tanzaburo-wants-to-be-a-masked-rider-19892",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1100/152037l.jpg",
       "stream_url": null
     }
   ]
