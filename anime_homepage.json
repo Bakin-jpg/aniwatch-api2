@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Fist of the North Star: Elegy of Ken-Oh's Army Grunts",
+      "watch_url": "https://aniwatchtv.to/watch/fist-of-the-north-star-elegy-of-ken-ohs-army-grunts-20185",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2325b3a4fe89f857613543fc79f8cd2f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Koupen-chan",
       "watch_url": "https://aniwatchtv.to/watch/koupen-chan-19647",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5822a9ded6c32d3418003e301d98d7.jpg",
@@ -114,12 +120,6 @@
       "title": "Hana-Kimi",
       "watch_url": "https://aniwatchtv.to/watch/hana-kimi-20285",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9405357f244e97183f0aba8fc86a2f42.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Kunon the Sorcerer Can See",
-      "watch_url": "https://aniwatchtv.to/watch/kunon-the-sorcerer-can-see-20293",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09a1343f159cd056e35ce68dbb12ede.jpg",
       "stream_url": null
     }
   ]
