@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Hell's Paradise Season 2",
       "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "A Gentle Noble's Vacation Recommendation",
+      "watch_url": "https://aniwatchtv.to/watch/a-gentle-nobles-vacation-recommendation-20281",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "[Oshi No Ko] Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/oshi-no-ko-season-3-20397",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacda0503215fb489feb38d631a92946.jpg",
+      "stream_url": null
+    },
     {
       "title": "Shiboyugi: Playing Death Games to Put Food on the Table",
       "watch_url": "https://aniwatchtv.to/watch/shiboyugi-playing-death-games-to-put-food-on-the-table-20325",
@@ -102,24 +120,6 @@
       "title": "The Most Powerful Vendor",
       "watch_url": "https://aniwatchtv.to/watch/the-most-powerful-vendor-19798",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad7c2a5dd8fd311eb73c390bfdc89c33.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Back as Immortal Lord",
-      "watch_url": "https://aniwatchtv.to/watch/back-as-immortal-lord-20053",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8a4d0c75f4f45c0db3fe099fb4c6072.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Lingwu Continent",
-      "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Martial Shattered Galaxy",
-      "watch_url": "https://aniwatchtv.to/watch/martial-shattered-galaxy-19844",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21e9cf902763ae6cbb6c3d4a491f4e7.jpg",
       "stream_url": null
     }
   ]
