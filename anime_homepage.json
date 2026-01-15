@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,30 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Anyway, I'm Falling in Love with You. Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c21d8b67b4a99bc693f26bf8fcd2e5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Chained Soldier Season 2 [Uncensored]",
+      "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-uncensored-20449",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1b0bd7ef5a20d2cf610c9355f3ad9a2.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Roll Over and Die",
+      "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
+      "stream_url": null
+    },
     {
       "title": "Chained Soldier Season 2",
       "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
@@ -96,30 +120,6 @@
       "title": "Love Through a Prism",
       "watch_url": "https://aniwatchtv.to/watch/love-through-a-prism-20169",
       "image_url": "https://cdn.myanimelist.net/images/anime/1862/153881l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The God of War Dominates",
-      "watch_url": "https://aniwatchtv.to/watch/the-god-of-war-dominates-4037",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Heaven Scrap Master",
-      "watch_url": "https://aniwatchtv.to/watch/heaven-scrap-master-19940",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409fc4eb43acd3f509788680ea6a8912.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Twin Martial Spirits",
-      "watch_url": "https://aniwatchtv.to/watch/twin-martial-spirits-19830",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c74d427ff0df122ded2ca9924e8305dc.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Blue Orchestra Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/the-blue-orchestra-season-2-19904",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/818b8d0df6e81a1b7d8dc9abd2127608.jpg",
       "stream_url": null
     }
   ]
