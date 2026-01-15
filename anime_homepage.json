@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "BanG Dream-chan",
+      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Koala's Diary",
+      "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Love Through a Prism",
       "watch_url": "https://aniwatchtv.to/watch/love-through-a-prism-20169",
       "image_url": "https://cdn.myanimelist.net/images/anime/1862/153881l.jpg",
@@ -108,18 +120,6 @@
       "title": "A Gentle Noble's Vacation Recommendation",
       "watch_url": "https://aniwatchtv.to/watch/a-gentle-nobles-vacation-recommendation-20281",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "My Star Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/my-star-season-3-20397",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacda0503215fb489feb38d631a92946.jpg",
       "stream_url": null
     }
   ]
