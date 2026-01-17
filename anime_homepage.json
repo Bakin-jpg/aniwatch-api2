@@ -51,6 +51,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ganglion",
+      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Himitsu no AiPri 2nd Season",
+      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
@@ -108,18 +120,6 @@
       "title": "Throne of Seal 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/throne-of-seal-2nd-season-18643",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7eae90b00f92055c4cb250605b10879.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "You Don't Know Gunma Yet",
-      "watch_url": "https://aniwatchtv.to/watch/you-dont-know-gunma-yet-20201",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f36a7fdcea44656abdc4392713abc9d4.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Outcast 6",
-      "watch_url": "https://aniwatchtv.to/watch/the-outcast-6-20161",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
       "stream_url": null
     }
   ]
