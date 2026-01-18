@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Other Side of Deep Space",
+      "watch_url": "https://aniwatchtv.to/watch/the-other-side-of-deep-space-20145",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9de4a4d57d77b6fae8f915dab55d6c7d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Digimon Beatbreak",
       "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
@@ -114,12 +120,6 @@
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b368556479b832ee553e4c9f35dfeee1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Trigun Stargaze",
-      "watch_url": "https://aniwatchtv.to/watch/trigun-stargaze-20377",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cebac9506e685712cde4059633c53d.jpg",
       "stream_url": null
     }
   ]
