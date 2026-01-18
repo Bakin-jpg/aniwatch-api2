@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Digimon Beatbreak",
+      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Daily Life of the Immortal King 5",
       "watch_url": "https://aniwatchtv.to/watch/the-daily-life-of-the-immortal-king-5-20061",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e01eab61e78b1a0c02c3e5118da82c09.jpg",
@@ -114,12 +120,6 @@
       "title": "Trigun Stargaze",
       "watch_url": "https://aniwatchtv.to/watch/trigun-stargaze-20377",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cebac9506e685712cde4059633c53d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Reincarnated as a Dragon Hatchling",
-      "watch_url": "https://aniwatchtv.to/watch/reincarnated-as-a-dragon-hatchling-20237",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2524aaef714b02864ae969f7db9952.jpg",
       "stream_url": null
     }
   ]
