@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ugoku! Neko Mukashibanashi",
+      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sousou no Frieren - Marumaru no Mahou (Mini Anime)",
       "watch_url": "https://aniwatchtv.to/watch/sousou-no-frieren-marumaru-no-mahou-mini-anime-18640",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b7d46aae55fcd98e1d4c8eb246abb7e.jpg",
@@ -114,12 +120,6 @@
       "title": "Back as Immortal Lord",
       "watch_url": "https://aniwatchtv.to/watch/back-as-immortal-lord-20053",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8a4d0c75f4f45c0db3fe099fb4c6072.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Golden Kamuy Final Season",
-      "watch_url": "https://aniwatchtv.to/watch/golden-kamuy-final-season-20373",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5ccdf8513717ea0b6b3a4abd716c079.jpg",
       "stream_url": null
     }
   ]
