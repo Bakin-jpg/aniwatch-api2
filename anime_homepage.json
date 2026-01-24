@@ -51,6 +51,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ganglion",
+      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Princession Orchestra",
+      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Himitsu no AiPri 2nd Season",
+      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Swords 2",
       "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
@@ -102,24 +120,6 @@
       "title": "The Outcast 6",
       "watch_url": "https://aniwatchtv.to/watch/the-outcast-6-20161",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053fcd7a316b27ba6e550054bb795a45.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Champignon Witch",
-      "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Anyway, I'm Falling in Love with You. Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Roll Over and Die",
-      "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
       "stream_url": null
     }
   ]
