@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Case Book of Arne",
+      "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Darwin Incident",
       "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
@@ -114,12 +120,6 @@
       "title": "My Hero Academia: Vigilantes Season 2",
       "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-vigilantes-season-2-20381",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0054bcd038276409991c3400784a05c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Wash It All Away",
-      "watch_url": "https://aniwatchtv.to/watch/wash-it-all-away-20261",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2612faf8ee956e679bbc298e85f99386.jpg",
       "stream_url": null
     }
   ]
