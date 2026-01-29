@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Champignon Witch",
+      "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Anyway, I'm Falling in Love with You. Season 2",
       "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
@@ -114,12 +120,6 @@
       "title": "Koala's Diary",
       "watch_url": "https://aniwatchtv.to/watch/koalas-diary-19871",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c7da888c9af90d9b67ad7ff5d736900.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Wind Driver In Tang Dynasty",
-      "watch_url": "https://aniwatchtv.to/watch/wind-driver-in-tang-dynasty-19936",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f792e433225ac600c4e3d806bdc9f25.jpg",
       "stream_url": null
     }
   ]
