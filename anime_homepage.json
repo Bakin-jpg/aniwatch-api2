@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Oedo Fire Slayer: The Legend of Phoenix",
       "watch_url": "https://aniwatchtv.to/watch/oedo-fire-slayer-the-legend-of-phoenix-20217",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
@@ -114,12 +120,6 @@
       "title": "Kaya-chan Isn't Scary",
       "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "In the Clear Moonlit Dusk",
-      "watch_url": "https://aniwatchtv.to/watch/in-the-clear-moonlit-dusk-20365",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a11a1142531eabaf47ae402f8574d4d.jpg",
       "stream_url": null
     }
   ]
