@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Darwin Incident",
+      "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Yoroi Shin Den Samurai Troopers",
       "watch_url": "https://aniwatchtv.to/watch/yoroi-shin-den-samurai-troopers-20209",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0785b57727c52e0eb15928fff4a4f44.jpg",
@@ -114,12 +120,6 @@
       "title": "Fist of the North Star: Elegy of Ken-Oh's Army Grunts",
       "watch_url": "https://aniwatchtv.to/watch/fist-of-the-north-star-elegy-of-ken-ohs-army-grunts-20185",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2325b3a4fe89f857613543fc79f8cd2f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Princession Orchestra",
-      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
       "stream_url": null
     }
   ]
