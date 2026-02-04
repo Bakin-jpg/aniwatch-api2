@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "A Gentle Noble's Vacation Recommendation",
+      "watch_url": "https://aniwatchtv.to/watch/a-gentle-nobles-vacation-recommendation-20281",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf62138b28c3e660bf56c60115894a74.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Blue Orchestra Season 2",
       "watch_url": "https://aniwatchtv.to/watch/the-blue-orchestra-season-2-19904",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/818b8d0df6e81a1b7d8dc9abd2127608.jpg",
@@ -114,12 +120,6 @@
       "title": "The Case Book of Arne",
       "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Darwin Incident",
-      "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
       "stream_url": null
     }
   ]
