@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Anyway, I'm Falling in Love with You. Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c21d8b67b4a99bc693f26bf8fcd2e5.jpg",
+      "stream_url": null
+    },
     {
       "title": "Chained Soldier Season 2 [Uncensored]",
       "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-uncensored-20449",
@@ -108,18 +120,6 @@
       "title": "Reborn as a Cat",
       "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Secrets of the Rivers",
-      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Gate of Mystical Realm",
-      "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
       "stream_url": null
     }
   ]
