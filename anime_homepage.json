@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Secrets of the Rivers",
+      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Gate of Mystical Realm",
       "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
@@ -114,12 +120,6 @@
       "title": "Ugoku! Neko Mukashibanashi",
       "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Reborn as a Cat",
-      "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
       "stream_url": null
     }
   ]
