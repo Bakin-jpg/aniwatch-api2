@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Fate/strange Fake",
+      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Frieren: Beyond Journey's End Season 2",
       "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "Fate/strange Fake",
-      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Hell's Paradise Season 2",
       "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
@@ -50,6 +50,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Gnosia",
+      "watch_url": "https://aniwatchtv.to/watch/gnosia-19893",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc4a5d9fd2ae80d993c141391e334476.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Fate/strange Fake",
+      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
+      "stream_url": null
+    },
     {
       "title": "A Misanthrope Teaches a Class for Demi-Humans",
       "watch_url": "https://aniwatchtv.to/watch/a-misanthrope-teaches-a-class-for-demi-humans-20233",
@@ -108,18 +120,6 @@
       "title": "Way of Choices",
       "watch_url": "https://aniwatchtv.to/watch/way-of-choices-20485",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Alchemist's Rise",
-      "watch_url": "https://aniwatchtv.to/watch/the-alchemists-rise-20045",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e80df6b75fc03807d49253130068a756.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Paws & Palaces",
-      "watch_url": "https://aniwatchtv.to/watch/paws-and-palaces-20037",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/498a2358c771af03a95554cc2ad8a2df.jpg",
       "stream_url": null
     }
   ]
