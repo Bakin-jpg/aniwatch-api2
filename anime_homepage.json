@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Theatre of Darkness: Yamishibai 16",
+      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c115cae0fce14eb9481ca51a62dc6e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Tales of Herding Gods",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
@@ -114,12 +120,6 @@
       "title": "Kaya-chan Isn't Scary",
       "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "You and I Are Polar Opposites",
-      "watch_url": "https://aniwatchtv.to/watch/you-and-i-are-polar-opposites-20369",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb483187b3b2ec503ee3aca06211d063.jpg",
       "stream_url": null
     }
   ]
