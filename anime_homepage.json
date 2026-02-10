@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Case Book of Arne",
+      "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Darwin Incident",
       "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
@@ -114,12 +120,6 @@
       "title": "Immortality 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/immortality-5th-season-20465",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2d6b7b769c5bf623e1976a63b0df500.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Other Side of Deep Space",
-      "watch_url": "https://aniwatchtv.to/watch/the-other-side-of-deep-space-20145",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9de4a4d57d77b6fae8f915dab55d6c7d.jpg",
       "stream_url": null
     }
   ]
