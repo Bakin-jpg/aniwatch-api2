@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ugoku! Neko Mukashibanashi",
+      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Most Powerful Vendor",
       "watch_url": "https://aniwatchtv.to/watch/the-most-powerful-vendor-19798",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad7c2a5dd8fd311eb73c390bfdc89c33.jpg",
@@ -114,12 +120,6 @@
       "title": "Lingwu Continent",
       "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ascendants of the Nine Suns",
-      "watch_url": "https://aniwatchtv.to/watch/ascendants-of-the-nine-suns-20021",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a383354f8ef4ab0bb5ffcd37868daea.jpg",
       "stream_url": null
     }
   ]
