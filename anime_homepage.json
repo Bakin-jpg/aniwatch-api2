@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Fate/strange Fake",
       "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/7d9db1af045a5b1d114ec803f0ee2db5.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3cd9af95553a60cca782566d80ea31b.jpg",
+      "stream_url": null
+    },
     {
       "title": "Swallowed Star 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/swallowed-star-2nd-season-18018",
@@ -114,12 +120,6 @@
       "title": "Champignon Witch",
       "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Chained Soldier Season 2 [Uncensored]",
-      "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-uncensored-20449",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1b0bd7ef5a20d2cf610c9355f3ad9a2.jpg",
       "stream_url": null
     }
   ]
