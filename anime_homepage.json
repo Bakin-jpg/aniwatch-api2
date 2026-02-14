@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Reincarnated as a Dragon Hatchling",
+      "watch_url": "https://aniwatchtv.to/watch/reincarnated-as-a-dragon-hatchling-20237",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2524aaef714b02864ae969f7db9952.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Blue Miburo Season 2",
       "watch_url": "https://aniwatchtv.to/watch/blue-miburo-season-2-20073",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
@@ -114,12 +120,6 @@
       "title": "Dark Moon: The Blood Altar",
       "watch_url": "https://aniwatchtv.to/watch/dark-moon-the-blood-altar-20265",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f97c6bbdeda3a9f48bd0332409a525.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3cd9af95553a60cca782566d80ea31b.jpg",
       "stream_url": null
     }
   ]
