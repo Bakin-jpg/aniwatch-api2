@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
       "watch_url": "https://aniwatchtv.to/watch/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-20269",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/e7777f65a6fca96dc2d7df5b818f3d69.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "My Star Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/my-star-season-3-20397",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacda0503215fb489feb38d631a92946.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Shiboyugi: Playing Death Games to Put Food on the Table",
+      "watch_url": "https://aniwatchtv.to/watch/shiboyugi-playing-death-games-to-put-food-on-the-table-20325",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/464f534b69c1af48c69c111ab3de093e.jpg",
+      "stream_url": null
+    },
     {
       "title": "Ugoku! Neko Mukashibanashi",
       "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
@@ -102,24 +120,6 @@
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cac39dab61221a2ed90e377a6294bf2d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Demon King's Daughter Is Too Kind!!",
-      "watch_url": "https://aniwatchtv.to/watch/the-demon-kings-daughter-is-too-kind-20221",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/950f2dfb3b0bf4b900666fa1beb0e1b0.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Princession Orchestra",
-      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "'Tis Time for \"Torture,\" Princess Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
       "stream_url": null
     }
   ]
