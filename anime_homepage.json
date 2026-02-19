@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Secrets of the Rivers",
+      "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Hell Teacher: Jigoku Sensei Nube Part 2",
       "watch_url": "https://aniwatchtv.to/watch/hell-teacher-jigoku-sensei-nube-part-2-20225",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d9d94b1b81b27beaa317c3689825bd2.jpg",
@@ -114,12 +120,6 @@
       "title": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
       "watch_url": "https://aniwatchtv.to/watch/ill-live-a-long-life-to-dote-on-my-favorite-stepbrother-20213",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3",
-      "watch_url": "https://aniwatchtv.to/watch/fategrand-order-youve-lost-ritsuka-fujimaru-season-3-20469",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0468a23f4c3232539577026bc48333d.jpg",
       "stream_url": null
     }
   ]
