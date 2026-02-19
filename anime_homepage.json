@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Holy Grail of Eris",
+      "watch_url": "https://aniwatchtv.to/watch/the-holy-grail-of-eris-20329",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c03c47e66f28fa67c6ff5849b73b86f7.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Roll Over and Die",
       "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
@@ -114,12 +120,6 @@
       "title": "Secrets of the Rivers",
       "watch_url": "https://aniwatchtv.to/watch/secrets-of-the-rivers-20041",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/081cf8aa7efc678fe18652f167617df5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hell Teacher: Jigoku Sensei Nube Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/hell-teacher-jigoku-sensei-nube-part-2-20225",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d9d94b1b81b27beaa317c3689825bd2.jpg",
       "stream_url": null
     }
   ]
