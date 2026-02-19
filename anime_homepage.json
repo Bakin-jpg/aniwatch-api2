@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Champignon Witch",
+      "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Anyway, I'm Falling in Love with You. Season 2",
       "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
@@ -114,12 +120,6 @@
       "title": "Reborn as a Cat",
       "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Gate of Mystical Realm",
-      "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
       "stream_url": null
     }
   ]
