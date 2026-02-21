@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Scum of the Brave",
+      "watch_url": "https://aniwatchtv.to/watch/scum-of-the-brave-20241",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "A Misanthrope Teaches a Class for Demi-Humans",
       "watch_url": "https://aniwatchtv.to/watch/a-misanthrope-teaches-a-class-for-demi-humans-20233",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e690c68a0292960cd664e30166645b54.jpg",
@@ -114,12 +120,6 @@
       "title": "Princession Orchestra",
       "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Himitsu no AiPri 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
       "stream_url": null
     }
   ]
