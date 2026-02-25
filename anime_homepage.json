@@ -51,6 +51,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3",
+      "watch_url": "https://aniwatchtv.to/watch/fategrand-order-youve-lost-ritsuka-fujimaru-season-3-20469",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0468a23f4c3232539577026bc48333d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Case Book of Arne",
       "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
@@ -114,12 +120,6 @@
       "title": "Golden Kamuy Final Season",
       "watch_url": "https://aniwatchtv.to/watch/golden-kamuy-final-season-20373",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5ccdf8513717ea0b6b3a4abd716c079.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "My Hero Academia: Vigilantes Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/my-hero-academia-vigilantes-season-2-20381",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0054bcd038276409991c3400784a05c.jpg",
       "stream_url": null
     }
   ]
