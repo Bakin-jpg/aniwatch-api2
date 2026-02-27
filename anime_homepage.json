@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Frieren: Beyond Journey's End Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -50,6 +50,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3cd9af95553a60cca782566d80ea31b.jpg",
+      "stream_url": null
+    },
     {
       "title": "Fabulous Beasts 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/fabulous-beasts-5th-season-20141",
@@ -114,12 +120,6 @@
       "title": "Chained Soldier Season 2",
       "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ca835ceebe8c20c8274ba494935e2c2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Invisible Man and His Soon-to-Be Wife",
-      "watch_url": "https://aniwatchtv.to/watch/the-invisible-man-and-his-soon-to-be-wife-20317",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4851fb89c0e43c896b30c6522a2acb27.jpg",
       "stream_url": null
     }
   ]
