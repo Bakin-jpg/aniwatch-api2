@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Fire Force Season 3 Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Frieren: Beyond Journey's End Season 2",
       "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
@@ -37,12 +43,6 @@
       "stream_url": null
     },
     {
-      "title": "Fire Force Season 3 Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Hell's Paradise Season 2",
       "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
@@ -56,6 +56,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Fire Force Season 3 Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dark Moon: The Blood Altar",
+      "watch_url": "https://aniwatchtv.to/watch/dark-moon-the-blood-altar-20265",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f97c6bbdeda3a9f48bd0332409a525.jpg",
+      "stream_url": null
+    },
     {
       "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
       "watch_url": "https://aniwatchtv.to/watch/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-20305",
@@ -114,18 +126,6 @@
       "title": "Champignon Witch",
       "watch_url": "https://aniwatchtv.to/watch/champignon-witch-20277",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a9e9b12ea3d11b462f5972b912b978f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Anyway, I'm Falling in Love with You. Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/anyway-im-falling-in-love-with-you-season-2-20245",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acf6bd4960be53d22f7caa3f6ea5e598.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Roll Over and Die",
-      "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
       "stream_url": null
     }
   ]
