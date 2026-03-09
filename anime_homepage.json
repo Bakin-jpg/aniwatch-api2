@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Release that Witch",
+      "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
+      "stream_url": null
+    },
+    {
       "title": "'Tis Time for \"Torture,\" Princess Season 2",
       "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
@@ -120,12 +126,6 @@
       "title": "One Hundred Thousand Years of Qi Refining",
       "watch_url": "https://aniwatchtv.to/watch/one-hundred-thousand-years-of-qi-refining-19182",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aa3770a48ac6a8500d378819d0de918.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Perfect World",
-      "watch_url": "https://aniwatchtv.to/watch/perfect-world-17492",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
       "stream_url": null
     }
   ]
