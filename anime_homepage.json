@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Tamon's B-Side",
+      "watch_url": "https://aniwatchtv.to/watch/tamons-b-side-20353",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Jack-of-All-Trades, Party of None",
       "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
@@ -120,12 +126,6 @@
       "title": "The Darwin Incident",
       "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yoroi Shin Den Samurai Troopers",
-      "watch_url": "https://aniwatchtv.to/watch/yoroi-shin-den-samurai-troopers-20209",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0785b57727c52e0eb15928fff4a4f44.jpg",
       "stream_url": null
     }
   ]
