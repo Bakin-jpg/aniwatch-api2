@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ugoku! Neko Mukashibanashi",
+      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Chiikawa",
       "watch_url": "https://aniwatchtv.to/watch/chiikawa-18003",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2147b7dfdac8d45a8ffa0e92da9c4859.jpg",
@@ -120,12 +126,6 @@
       "title": "Release that Witch",
       "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "'Tis Time for \"Torture,\" Princess Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/tis-time-for-torture-princess-season-2-20337",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d04d5fdecb5d05f9934b608d3300e41.jpg",
       "stream_url": null
     }
   ]
