@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -16,12 +22,6 @@
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
       "stream_url": null
     },
     {
@@ -56,6 +56,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c21d8b67b4a99bc693f26bf8fcd2e5.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Roll Over and Die",
+      "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Chained Soldier Season 2 [Uncensored]",
+      "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-uncensored-20449",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1b0bd7ef5a20d2cf610c9355f3ad9a2.jpg",
+      "stream_url": null
+    },
     {
       "title": "Chained Soldier Season 2",
       "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
@@ -108,24 +126,6 @@
       "title": "The Gate of Mystical Realm",
       "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7906239bceb0f39988edd1a8ac9926d9.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Hell Teacher: Jigoku Sensei Nube Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/hell-teacher-jigoku-sensei-nube-part-2-20225",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d9d94b1b81b27beaa317c3689825bd2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tamon's B-Side",
-      "watch_url": "https://aniwatchtv.to/watch/tamons-b-side-20353",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8339acdf333fbe06f317a6c5cb0a748d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8eeb1246bfa4b3415953560ccdcf5b1.jpg",
       "stream_url": null
     }
   ]
