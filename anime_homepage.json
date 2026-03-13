@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Everyday Host",
+      "watch_url": "https://aniwatchtv.to/watch/everyday-host-19601",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/177fae6c9e32aca4db5bdccc6faec97f.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fabulous Beasts 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/fabulous-beasts-5th-season-20141",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9229de1040061dbf7dae15ed3ffacd4c.jpg",
@@ -120,12 +126,6 @@
       "title": "Chained Soldier Season 2",
       "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ca835ceebe8c20c8274ba494935e2c2.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Invisible Man and His Soon-to-Be Wife",
-      "watch_url": "https://aniwatchtv.to/watch/the-invisible-man-and-his-soon-to-be-wife-20317",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4851fb89c0e43c896b30c6522a2acb27.jpg",
       "stream_url": null
     }
   ]
