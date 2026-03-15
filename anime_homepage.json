@@ -57,6 +57,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Digimon Beatbreak",
+      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "SI-VIS: The Sound of Heroes",
+      "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Star Detective Precure!",
+      "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Gnosia",
       "watch_url": "https://aniwatchtv.to/watch/gnosia-19893",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc4a5d9fd2ae80d993c141391e334476.jpg",
@@ -108,24 +126,6 @@
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b368556479b832ee553e4c9f35dfeee1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Reincarnated as a Dragon Hatchling",
-      "watch_url": "https://aniwatchtv.to/watch/reincarnated-as-a-dragon-hatchling-20237",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2524aaef714b02864ae969f7db9952.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Case Closed",
-      "watch_url": "https://aniwatchtv.to/watch/case-closed-323",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Blue Miburo Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/blue-miburo-season-2-20073",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5427f29e34a5be4957f99e432252d63a.jpg",
       "stream_url": null
     }
   ]
