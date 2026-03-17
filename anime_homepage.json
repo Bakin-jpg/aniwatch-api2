@@ -57,6 +57,24 @@
   ],
   "latest_episodes": [
     {
+      "title": "Majokko Megu-chan",
+      "watch_url": "https://aniwatchtv.to/watch/majokko-megu-chan-4999",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ebf16cf83ba8facc2825405bc32d13b.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ganglion",
+      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Demon King's Daughter Is Too Kind!!",
+      "watch_url": "https://aniwatchtv.to/watch/the-demon-kings-daughter-is-too-kind-20221",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/950f2dfb3b0bf4b900666fa1beb0e1b0.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sousou no Frieren - Marumaru no Mahou (Mini Anime)",
       "watch_url": "https://aniwatchtv.to/watch/sousou-no-frieren-marumaru-no-mahou-mini-anime-18640",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b7d46aae55fcd98e1d4c8eb246abb7e.jpg",
@@ -108,24 +126,6 @@
       "title": "Fist of the North Star: Elegy of Ken-Oh's Army Grunts",
       "watch_url": "https://aniwatchtv.to/watch/fist-of-the-north-star-elegy-of-ken-ohs-army-grunts-20185",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2325b3a4fe89f857613543fc79f8cd2f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Tales of Herding Gods",
-      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Swords 2",
-      "watch_url": "https://aniwatchtv.to/watch/the-swords-2-20417",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d560e06c754917fcb641b41b3ee4717.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Princession Orchestra",
-      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
       "stream_url": null
     }
   ]
