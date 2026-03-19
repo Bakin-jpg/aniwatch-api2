@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Sentenced to Be a Hero",
       "watch_url": "https://aniwatchtv.to/watch/sentenced-to-be-a-hero-20385",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/ef70f1c65001ba1aaaa7c190447e7266.jpg",
@@ -10,12 +16,6 @@
       "title": "Frieren: Beyond Journey's End Season 2",
       "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
       "stream_url": null
     },
     {
@@ -56,6 +56,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Reborn as a Cat",
+      "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
+      "stream_url": null
+    },
     {
       "title": "The Gate of Mystical Realm",
       "watch_url": "https://aniwatchtv.to/watch/the-gate-of-mystical-realm-20029",
@@ -120,12 +126,6 @@
       "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3",
       "watch_url": "https://aniwatchtv.to/watch/fategrand-order-youve-lost-ritsuka-fujimaru-season-3-20469",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0468a23f4c3232539577026bc48333d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Case Book of Arne",
-      "watch_url": "https://aniwatchtv.to/watch/the-case-book-of-arne-20249",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd595230d71e2b3112ed5fa999259c5c.jpg",
       "stream_url": null
     }
   ]
