@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Ganglion",
+      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
@@ -120,12 +126,6 @@
       "title": "Roll Over and Die",
       "watch_url": "https://aniwatchtv.to/watch/roll-over-and-die-20273",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12aba2abce2d9e37776c136522b8ca5b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c21d8b67b4a99bc693f26bf8fcd2e5.jpg",
       "stream_url": null
     }
   ]
