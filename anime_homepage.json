@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Fire Force Season 3 Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Frieren: Beyond Journey's End Season 2",
       "watch_url": "https://aniwatchtv.to/watch/frieren-beyond-journeys-end-season-2-20409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f8ea0e26f973c16b7a184e61a230306c.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Fire Force Season 3 Part 2",
-      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -56,6 +56,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Fire Force Season 3 Part 2",
+      "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3f9fa4dd0f42d6ef8ca55aaefe46fbd.jpg",
+      "stream_url": null
+    },
     {
       "title": "Dark Moon: The Blood Altar",
       "watch_url": "https://aniwatchtv.to/watch/dark-moon-the-blood-altar-20265",
@@ -120,12 +126,6 @@
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c21d8b67b4a99bc693f26bf8fcd2e5.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Chained Soldier Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/chained-soldier-season-2-20389",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ca835ceebe8c20c8274ba494935e2c2.jpg",
       "stream_url": null
     }
   ]
