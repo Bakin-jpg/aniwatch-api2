@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Dead Account",
+      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Dead Account",
-      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -56,6 +56,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "A Misanthrope Teaches a Class for Demi-Humans",
+      "watch_url": "https://aniwatchtv.to/watch/a-misanthrope-teaches-a-class-for-demi-humans-20233",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e690c68a0292960cd664e30166645b54.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Dead Account",
+      "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b368556479b832ee553e4c9f35dfeee1.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Trigun Stargaze",
+      "watch_url": "https://aniwatchtv.to/watch/trigun-stargaze-20377",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cebac9506e685712cde4059633c53d.jpg",
+      "stream_url": null
+    },
     {
       "title": "Reincarnated as a Dragon Hatchling",
       "watch_url": "https://aniwatchtv.to/watch/reincarnated-as-a-dragon-hatchling-20237",
@@ -108,24 +126,6 @@
       "title": "B.King",
       "watch_url": "https://aniwatchtv.to/watch/bking-20157",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91ac9c5f7bfb527f0316d6a7fa09d628.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yu-Gi-Oh! Card Game: The Chronicles",
-      "watch_url": "https://aniwatchtv.to/watch/yu-gi-oh-card-game-the-chronicles-19609",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56e86bcb87b3de63006fedd3ca3ba93b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Himitsu no AiPri 2nd Season",
-      "watch_url": "https://aniwatchtv.to/watch/himitsu-no-aipri-2nd-season-19608",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ganglion",
-      "watch_url": "https://aniwatchtv.to/watch/ganglion-19883",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c6a0b89b964d835f2e43dd1437e475.jpg",
       "stream_url": null
     }
   ]
