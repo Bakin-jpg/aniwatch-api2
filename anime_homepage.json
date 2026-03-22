@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Tales of Herding Gods",
+      "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Kaya-chan Isn't Scary",
       "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
@@ -120,12 +126,6 @@
       "title": "Scum of the Brave",
       "watch_url": "https://aniwatchtv.to/watch/scum-of-the-brave-20241",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Fate/strange Fake",
-      "watch_url": "https://aniwatchtv.to/watch/fatestrange-fake-19436",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
       "stream_url": null
     }
   ]
