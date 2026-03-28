@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Scum of the Brave",
+      "watch_url": "https://aniwatchtv.to/watch/scum-of-the-brave-20241",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62828eeee0f13a7ac3f793cca68d78e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Agents of the Four Seasons: Dance of Spring",
       "watch_url": "https://aniwatchtv.to/watch/agents-of-the-four-seasons-dance-of-spring-20650",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc408c96a73fffbd62b792319a2c66.jpg",
@@ -120,12 +126,6 @@
       "title": "Cardfight!! Vanguard: Divinez Parallactic Clash",
       "watch_url": "https://aniwatchtv.to/watch/cardfight-vanguard-divinez-parallactic-clash-20189",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09863939d7b0375acc772d55e4d6ce8b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "B.King",
-      "watch_url": "https://aniwatchtv.to/watch/bking-20157",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91ac9c5f7bfb527f0316d6a7fa09d628.jpg",
       "stream_url": null
     }
   ]
