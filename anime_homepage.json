@@ -57,6 +57,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Rooster Fighter",
+      "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
+      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "In the Clear Moonlit Dusk",
+      "watch_url": "https://aniwatchtv.to/watch/in-the-clear-moonlit-dusk-20365",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a11a1142531eabaf47ae402f8574d4d.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Way of Choices",
       "watch_url": "https://aniwatchtv.to/watch/way-of-choices-20485",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9afb71d86bb89baef6f7133a7e4ed85.jpg",
@@ -77,7 +89,7 @@
     {
       "title": "SI-VIS: The Sound of Heroes",
       "watch_url": "https://aniwatchtv.to/watch/si-vis-the-sound-of-heroes-19884",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa947cf551f46d3c20af08dcc53c08f.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e3eb5e8163fd29ced29ce5795fbcd91.jpg",
       "stream_url": null
     },
     {
@@ -114,18 +126,6 @@
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b368556479b832ee553e4c9f35dfeee1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Trigun Stargaze",
-      "watch_url": "https://aniwatchtv.to/watch/trigun-stargaze-20377",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cebac9506e685712cde4059633c53d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Reincarnated as a Dragon Hatchling",
-      "watch_url": "https://aniwatchtv.to/watch/reincarnated-as-a-dragon-hatchling-20237",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2524aaef714b02864ae969f7db9952.jpg",
       "stream_url": null
     }
   ]
