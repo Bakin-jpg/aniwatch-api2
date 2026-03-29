@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Theatre of Darkness: Yamishibai 16",
+      "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c115cae0fce14eb9481ca51a62dc6e.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Oedo Fire Slayer: The Legend of Phoenix",
       "watch_url": "https://aniwatchtv.to/watch/oedo-fire-slayer-the-legend-of-phoenix-20217",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
@@ -120,12 +126,6 @@
       "title": "Kaya-chan Isn't Scary",
       "watch_url": "https://aniwatchtv.to/watch/kaya-chan-isnt-scary-20289",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7808ae757c0314c6bd70f54c476f1e7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Rooster Fighter",
-      "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
-      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
       "stream_url": null
     }
   ]
