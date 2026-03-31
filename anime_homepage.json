@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Darwin Incident",
+      "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/daac93ac42a9c98e16578a6439ae59e7.jpg",
@@ -120,12 +126,6 @@
       "title": "Theatre of Darkness: Yamishibai 16",
       "watch_url": "https://aniwatchtv.to/watch/theatre-of-darkness-yamishibai-16-20193",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c115cae0fce14eb9481ca51a62dc6e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Oedo Fire Slayer: The Legend of Phoenix",
-      "watch_url": "https://aniwatchtv.to/watch/oedo-fire-slayer-the-legend-of-phoenix-20217",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
       "stream_url": null
     }
   ]
