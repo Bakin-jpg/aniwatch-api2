@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Jack-of-All-Trades, Party of None",
+      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
+      "stream_url": null
+    },
+    {
       "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
       "watch_url": "https://aniwatchtv.to/watch/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-20341",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/2bdb0238afa875060c7ab05f3f9adbd6.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Jujutsu Kaisen: The Culling Game Part 1",
       "watch_url": "https://aniwatchtv.to/watch/jujutsu-kaisen-the-culling-game-part-1-20401",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/b59198c92059644bbadb214f275a116d.jpg",
@@ -56,6 +56,12 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
+      "watch_url": "https://aniwatchtv.to/watch/ill-live-a-long-life-to-dote-on-my-favorite-stepbrother-20213",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261c1185744fb483b4653a3a7adab30a.jpg",
+      "stream_url": null
+    },
     {
       "title": "Reborn as a Cat",
       "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
@@ -120,12 +126,6 @@
       "title": "The Food Diary of Miss Maid",
       "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Darwin Incident",
-      "watch_url": "https://aniwatchtv.to/watch/the-darwin-incident-20321",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0631f68d640b3f2d744613666a1bb8c1.jpg",
       "stream_url": null
     }
   ]
