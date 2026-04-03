@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Snowball Earth",
+      "watch_url": "https://aniwatchtv.to/watch/snowball-earth-20731",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64a82b61c3987d4d15f49a2f40aeff76.jpg",
+      "stream_url": null
+    },
+    {
       "title": "That Time I Got Reincarnated as a Slime Season 4",
       "watch_url": "https://aniwatchtv.to/watch/that-time-i-got-reincarnated-as-a-slime-season-4-20572",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12b5cde809eb6b9dae7f86359228ca6e.jpg",
@@ -120,12 +126,6 @@
       "title": "Haibara's Teenage New Game+",
       "watch_url": "https://aniwatchtv.to/watch/haibaras-teenage-new-game-20680",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d507efb4b10d91d71a8b59ee2204bac.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Aliens Among Immortals",
-      "watch_url": "https://aniwatchtv.to/watch/aliens-among-immortals-20776",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fa1a42086dec77f2d7eab12738777d9.jpg",
       "stream_url": null
     }
   ]
