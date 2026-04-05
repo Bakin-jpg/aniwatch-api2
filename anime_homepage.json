@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Any and All Living Things",
+      "watch_url": "https://aniwatchtv.to/watch/any-and-all-living-things-19698",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Ingoku Danchi Deviant's Apartment Complex",
       "watch_url": "https://aniwatchtv.to/watch/ingoku-danchi-deviants-apartment-complex-20803",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95510507ffff5b60ce932d43b12cfd4b.jpg",
@@ -120,12 +126,6 @@
       "title": "Rooster Fighter",
       "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
       "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Mao",
-      "watch_url": "https://aniwatchtv.to/watch/mao-20668",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2b0de13cd886ccab66ee5dc62cd1c9e.jpg",
       "stream_url": null
     }
   ]
