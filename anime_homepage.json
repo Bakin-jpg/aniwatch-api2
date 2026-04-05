@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Food Diary of Miss Maid",
+      "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Tales of Herding Gods",
       "watch_url": "https://aniwatchtv.to/watch/tales-of-herding-gods-19409",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
@@ -120,12 +126,6 @@
       "title": "Star Detective Precure!",
       "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Dark History of the Reincarnated Villainess OAD",
-      "watch_url": "https://aniwatchtv.to/watch/the-dark-history-of-the-reincarnated-villainess-oad-20800",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77cad74477ac815e4480d15d38df0d96.jpg",
       "stream_url": null
     }
   ]
