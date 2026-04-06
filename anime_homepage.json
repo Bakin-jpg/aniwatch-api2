@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Liar Game",
+      "watch_url": "https://aniwatchtv.to/watch/liar-game-20611",
+      "image_url": "https://myanimelist.net/images/anime/1607/156078l.jpg",
+      "stream_url": null
+    },
+    {
       "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "watch_url": "https://aniwatchtv.to/watch/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt-20689",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa360c21d1fec0ed3100a4993a45e88b.jpg",
@@ -120,12 +126,6 @@
       "title": "Oedo Fire Slayer: The Legend of Phoenix",
       "watch_url": "https://aniwatchtv.to/watch/oedo-fire-slayer-the-legend-of-phoenix-20217",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ghost Concert: Missing Songs",
-      "watch_url": "https://aniwatchtv.to/watch/ghost-concert-missing-songs-20749",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a14b4090ffc9ebc49abcf501b909bb0c.jpg",
       "stream_url": null
     }
   ]
