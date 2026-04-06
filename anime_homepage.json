@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Release that Witch",
+      "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Liar Game",
       "watch_url": "https://aniwatchtv.to/watch/liar-game-20611",
       "image_url": "https://myanimelist.net/images/anime/1607/156078l.jpg",
@@ -120,12 +126,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Oedo Fire Slayer: The Legend of Phoenix",
-      "watch_url": "https://aniwatchtv.to/watch/oedo-fire-slayer-the-legend-of-phoenix-20217",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3550f62b58697ca8fbcb97f231789789.jpg",
       "stream_url": null
     }
   ]
