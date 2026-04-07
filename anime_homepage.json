@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Eren the Southpaw",
+      "watch_url": "https://aniwatchtv.to/watch/eren-the-southpaw-20710",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/644d99c28eef8cb46afa49ddcc1d52d6.jpg",
+      "stream_url": null
+    },
+    {
       "title": "I Made Friends with the Second Prettiest Girl in My Class",
       "watch_url": "https://aniwatchtv.to/watch/i-made-friends-with-the-second-prettiest-girl-in-my-class-20608",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8da6dcc6c69910987ba33debfd4e26c3.jpg",
@@ -120,12 +126,6 @@
       "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "watch_url": "https://aniwatchtv.to/watch/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt-20689",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa360c21d1fec0ed3100a4993a45e88b.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Witch Hat Atelier",
-      "watch_url": "https://aniwatchtv.to/watch/witch-hat-atelier-20578",
-      "image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg",
       "stream_url": null
     }
   ]
