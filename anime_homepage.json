@@ -57,6 +57,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Beyond Twilight",
+      "watch_url": "https://aniwatchtv.to/watch/beyond-twilight-20752",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3995d1df1e0ad53a68906af4d3ab473.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Princession Orchestra",
+      "watch_url": "https://aniwatchtv.to/watch/princession-orchestra-19600",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ca9d6fe6e41f9ec8602f3f5a7fa37a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
       "watch_url": "https://aniwatchtv.to/watch/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-20737",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95ef99f736281f59e0b41c28af9dfcb9.jpg",
@@ -114,18 +126,6 @@
       "title": "Lingwu Continent",
       "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Magical Sisters Lulutto Lilly",
-      "watch_url": "https://aniwatchtv.to/watch/magical-sisters-lulutto-lilly-20743",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99913d33da0457718a0b4a568f3ea7c9.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Release that Witch",
-      "watch_url": "https://aniwatchtv.to/watch/release-that-witch-20536",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75df5e5fcc175968bd5e23a5574c5cf6.jpg",
       "stream_url": null
     }
   ]
