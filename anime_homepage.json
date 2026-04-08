@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Walking the Way All Alone",
+      "watch_url": "https://aniwatchtv.to/watch/walking-the-way-all-alone-20812",
+      "image_url": "https://myanimelist.net/images/anime/1648/156622l.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Beyond Twilight",
       "watch_url": "https://aniwatchtv.to/watch/beyond-twilight-20752",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3995d1df1e0ad53a68906af4d3ab473.jpg",
@@ -120,12 +126,6 @@
       "title": "Immortality 5th Season",
       "watch_url": "https://aniwatchtv.to/watch/immortality-5th-season-20465",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2d6b7b769c5bf623e1976a63b0df500.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Lingwu Continent",
-      "watch_url": "https://aniwatchtv.to/watch/lingwu-continent-19295",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
       "stream_url": null
     }
   ]
