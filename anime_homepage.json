@@ -57,9 +57,15 @@
   ],
   "latest_episodes": [
     {
+      "title": "In Search of Gods",
+      "watch_url": "https://aniwatchtv.to/watch/in-search-of-gods-20785",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d21301779f7930407fe77c5761bf3e69.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Fushigi Dagashiya: Zenitendou",
       "watch_url": "https://aniwatchtv.to/watch/fushigi-dagashiya-zenitendou-13618",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0491a0a322e7a4e8db0aeac36498f848.jpg",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3147c41a02f910ba31c41a5c5f838f7.jpg",
       "stream_url": null
     },
     {
@@ -120,12 +126,6 @@
       "title": "Rent-a-Girlfriend Season 5",
       "watch_url": "https://aniwatchtv.to/watch/rent-a-girlfriend-season-5-20623",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e57ce54d698dbbed5c94eb3197f90e43.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Classroom of the Elite IV",
-      "watch_url": "https://aniwatchtv.to/watch/classroom-of-the-elite-iv-20575",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa6f8e5bbcd63c4317a17ca0b352e3e3.jpg",
       "stream_url": null
     }
   ]
