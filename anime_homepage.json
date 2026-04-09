@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Fushigi Dagashiya: Zenitendou",
+      "watch_url": "https://aniwatchtv.to/watch/fushigi-dagashiya-zenitendou-13618",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0491a0a322e7a4e8db0aeac36498f848.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Reborn as a Cat",
       "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
@@ -120,12 +126,6 @@
       "title": "Classroom of the Elite IV",
       "watch_url": "https://aniwatchtv.to/watch/classroom-of-the-elite-iv-20575",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa6f8e5bbcd63c4317a17ca0b352e3e3.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ugoku! Neko Mukashibanashi",
-      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
       "stream_url": null
     }
   ]
