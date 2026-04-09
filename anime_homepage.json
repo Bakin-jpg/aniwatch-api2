@@ -57,6 +57,18 @@
   ],
   "latest_episodes": [
     {
+      "title": "Monster Eater",
+      "watch_url": "https://aniwatchtv.to/watch/monster-eater-20716",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edc80eac64b3ce2a327a7ee415148f10.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "A Hundred Scenes of Awajima",
+      "watch_url": "https://aniwatchtv.to/watch/a-hundred-scenes-of-awajima-20698",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad8561f22ac57f86422ee5c11f2d24f0.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Petals of Reincarnation",
       "watch_url": "https://aniwatchtv.to/watch/petals-of-reincarnation-20629",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46661ece0bd3ee83fbaee56f7fa024ce.jpg",
@@ -114,18 +126,6 @@
       "title": "Fushigi Dagashiya: Zenitendou",
       "watch_url": "https://aniwatchtv.to/watch/fushigi-dagashiya-zenitendou-13618",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3147c41a02f910ba31c41a5c5f838f7.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Reborn as a Cat",
-      "watch_url": "https://aniwatchtv.to/watch/reborn-as-a-cat-20013",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668c46b074ae236ad5893e1c125fb50d.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Gals Can't Be Kind to Otaku!?",
-      "watch_url": "https://aniwatchtv.to/watch/gals-cant-be-kind-to-otaku-20638",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f0b68e13d8131a6030cc6b74dfb1d67.jpg",
       "stream_url": null
     }
   ]
