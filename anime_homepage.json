@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "The Food Diary of Miss Maid",
+      "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4eb91ae862b309d4ef7300a35ceae1.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
       "watch_url": "https://aniwatchtv.to/watch/nippon-sangoku-the-three-nations-of-the-crimson-sun-20713",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2b9657978e872dbf913bf4fa4c82b93.jpg",
@@ -120,12 +126,6 @@
       "title": "Star Detective Precure!",
       "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ichijouma Mankitsugurashi!",
-      "watch_url": "https://aniwatchtv.to/watch/ichijouma-mankitsugurashi-20722",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d0e24cf75329ea52b698d0ae7cefcdb.jpg",
       "stream_url": null
     }
   ]
