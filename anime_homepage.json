@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Dead Account",
       "watch_url": "https://aniwatchtv.to/watch/dead-account-20301",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f804875e4da47f1f88c921dc1385eae4.jpg",
@@ -31,12 +37,6 @@
       "stream_url": null
     },
     {
-      "title": "One Piece",
-      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Jack-of-All-Trades, Party of None",
       "watch_url": "https://aniwatchtv.to/watch/jack-of-all-trades-party-of-none-20333",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/4e3ff3c84a8f72d159184d79bb7308e8.jpg",
@@ -56,6 +56,24 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Ghost Concert: Missing Songs",
+      "watch_url": "https://aniwatchtv.to/watch/ghost-concert-missing-songs-20749",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a14b4090ffc9ebc49abcf501b909bb0c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "The Classroom of a Black Cat and a Witch",
+      "watch_url": "https://aniwatchtv.to/watch/the-classroom-of-a-black-cat-and-a-witch-20677",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d474e468bcee49abd66141b6fbd36ba.jpg",
+      "stream_url": null
+    },
     {
       "title": "The Food Diary of Miss Maid",
       "watch_url": "https://aniwatchtv.to/watch/the-food-diary-of-miss-maid-20719",
@@ -108,24 +126,6 @@
       "title": "Rooster Fighter",
       "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
       "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "watch_url": "https://aniwatchtv.to/watch/agents-of-the-four-seasons-dance-of-spring-20650",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc408c96a73fffbd62b792319a2c66.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Star Detective Precure!",
-      "watch_url": "https://aniwatchtv.to/watch/star-detective-precure-20481",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6331247240cd11923f544d1d03d98e.jpg",
       "stream_url": null
     }
   ]
