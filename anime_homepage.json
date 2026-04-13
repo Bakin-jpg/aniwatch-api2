@@ -1,6 +1,12 @@
 {
   "spotlight": [
     {
+      "title": "Hell's Paradise Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
+      "stream_url": null
+    },
+    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
@@ -43,12 +49,6 @@
       "stream_url": null
     },
     {
-      "title": "Hell's Paradise Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/hells-paradise-season-2-20405",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/f2f944d703ff54b7705593f608180b8a.jpg",
-      "stream_url": null
-    },
-    {
       "title": "Fire Force Season 3 Part 2",
       "watch_url": "https://aniwatchtv.to/watch/fire-force-season-3-part-2-20393",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/755aa8b428001345b84a669998474a5c.jpg",
@@ -56,6 +56,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Mini Link Click",
+      "watch_url": "https://aniwatchtv.to/watch/mini-link-click-20821",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2331bdfcea68a0ff8685499e15ffbe8.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Yowayowa Teacher (Uncensored)",
+      "watch_url": "https://aniwatchtv.to/watch/yowayowa-teacher-uncensored-20818",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27cbfddee9898e5c900e91ddc5f0d1c0.jpg",
+      "stream_url": null
+    },
     {
       "title": "Magical Sisters Lulutto Lilly",
       "watch_url": "https://aniwatchtv.to/watch/magical-sisters-lulutto-lilly-20743",
@@ -114,18 +126,6 @@
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ghost Concert: Missing Songs",
-      "watch_url": "https://aniwatchtv.to/watch/ghost-concert-missing-songs-20749",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a14b4090ffc9ebc49abcf501b909bb0c.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "The Classroom of a Black Cat and a Witch",
-      "watch_url": "https://aniwatchtv.to/watch/the-classroom-of-a-black-cat-and-a-witch-20677",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d474e468bcee49abd66141b6fbd36ba.jpg",
       "stream_url": null
     }
   ]
