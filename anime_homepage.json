@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Dandelion",
+      "watch_url": "https://aniwatchtv.to/watch/dandelion-20788",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2191ba27032efdf41d6190154d4d534.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Against the Gods 2nd Season",
       "watch_url": "https://aniwatchtv.to/watch/against-the-gods-2nd-season-20794",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e527e9d64ceac717d08e7d6696826a32.jpg",
@@ -120,12 +126,6 @@
       "title": "Rent-a-Girlfriend Season 5",
       "watch_url": "https://aniwatchtv.to/watch/rent-a-girlfriend-season-5-20623",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e57ce54d698dbbed5c94eb3197f90e43.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Ugoku! Neko Mukashibanashi",
-      "watch_url": "https://aniwatchtv.to/watch/ugoku-neko-mukashibanashi-19872",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93175218ad139d910053473b4f3036db.jpg",
       "stream_url": null
     }
   ]
