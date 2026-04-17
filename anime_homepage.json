@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Spy x Sect",
+      "watch_url": "https://aniwatchtv.to/watch/spy-x-sect-19820",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/820363d2c174cc69b3b19441afe6a0d3.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Marika's Love Meter Malfunction",
       "watch_url": "https://aniwatchtv.to/watch/marikas-love-meter-malfunction-20563",
       "image_url": "https://myanimelist.net/images/anime/1818/155506l.jpg",
@@ -120,12 +126,6 @@
       "title": "Kujima: Why Sing, When You Can Warble?",
       "watch_url": "https://aniwatchtv.to/watch/kujima-why-sing-when-you-can-warble-20734",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f7d502a89a084395edb4750b58c4b7f.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "BanG Dream-chan",
-      "watch_url": "https://aniwatchtv.to/watch/bang-dream-chan-19874",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4dbd949a934a04ba51cd091edd0818.jpg",
       "stream_url": null
     }
   ]
