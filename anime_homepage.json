@@ -1,15 +1,15 @@
 {
   "spotlight": [
     {
-      "title": "Wistoria: Wand and Sword Season 2",
-      "watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/84f7f61fac2fa5ff6b8c1db754c41b25.jpg",
-      "stream_url": null
-    },
-    {
       "title": "One Piece",
       "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/db8603d2f4fa78e1c42f6cf829030a18.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "Wistoria: Wand and Sword Season 2",
+      "watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/1366x768/100/84f7f61fac2fa5ff6b8c1db754c41b25.jpg",
       "stream_url": null
     },
     {
@@ -56,6 +56,18 @@
     }
   ],
   "latest_episodes": [
+    {
+      "title": "Ghost Concert: Missing Songs",
+      "watch_url": "https://aniwatchtv.to/watch/ghost-concert-missing-songs-20749",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a14b4090ffc9ebc49abcf501b909bb0c.jpg",
+      "stream_url": null
+    },
+    {
+      "title": "One Piece",
+      "watch_url": "https://aniwatchtv.to/watch/one-piece-100",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+      "stream_url": null
+    },
     {
       "title": "The Classroom of a Black Cat and a Witch",
       "watch_url": "https://aniwatchtv.to/watch/the-classroom-of-a-black-cat-and-a-witch-20677",
@@ -114,18 +126,6 @@
       "title": "Wistoria: Wand and Sword Season 2",
       "watch_url": "https://aniwatchtv.to/watch/wistoria-wand-and-sword-season-2-20584",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cdbc616efbd66640e6568a44e3b6c43.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "watch_url": "https://aniwatchtv.to/watch/digimon-beatbreak-19935",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/701bfffb1d5c305ecc626de6ce36f599.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Yowayowa Teacher (Uncensored)",
-      "watch_url": "https://aniwatchtv.to/watch/yowayowa-teacher-uncensored-20818",
-      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27cbfddee9898e5c900e91ddc5f0d1c0.jpg",
       "stream_url": null
     }
   ]
