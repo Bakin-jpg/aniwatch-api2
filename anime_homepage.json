@@ -57,6 +57,12 @@
   ],
   "latest_episodes": [
     {
+      "title": "Renegade Immortal",
+      "watch_url": "https://aniwatchtv.to/watch/renegade-immortal-18573",
+      "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+      "stream_url": null
+    },
+    {
       "title": "Ingoku Danchi Deviant's Apartment Complex",
       "watch_url": "https://aniwatchtv.to/watch/ingoku-danchi-deviants-apartment-complex-20803",
       "image_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02a1f7738606f5cf52e69bf35618dee7.jpg",
@@ -120,12 +126,6 @@
       "title": "Mission: Yozakura Family Season 2",
       "watch_url": "https://aniwatchtv.to/watch/mission-yozakura-family-season-2-20614",
       "image_url": "https://myanimelist.net/images/anime/1230/155783l.jpg",
-      "stream_url": null
-    },
-    {
-      "title": "Rooster Fighter",
-      "watch_url": "https://aniwatchtv.to/watch/rooster-fighter-20566",
-      "image_url": "https://myanimelist.net/images/anime/1666/150983l.jpg",
       "stream_url": null
     }
   ]
